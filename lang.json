@@ -1,0 +1,1024 @@
+{
+    "CH":{
+        "messageBox":
+        {
+            "done_msg": "完全的",
+            "tool_expiration": "工具已过期，请联系管理员续订",
+            "phone_empty": "请输入手机号码",
+            "creat_ss_success": "会话文件创建成功",
+            "creat_ss_error": "会话文件创建失败",
+            "save_success": "保存成功",
+            "folder_image_empty": "图片文件夹不能为空！",
+            "message_block_sex": "请勿使用敏感词汇！",
+            "warning_not_proxy": "如果您同意使用此功能，您的帐户将有永久封禁的风险。您仍要继续吗？",
+            "forever_tool": "永久",
+            "expiration_date": "过期日期",
+            "expiration": "过期",
+            "warning_check_live_proxy": "- 对于 ip:port:username:password 格式的代理，不需要进行检查。\n- 只有 ip:port 类型的代理才需要进行检查。",
+            "add_member_phone": "使用手机号添加",
+            "add_member_username": "使用用户名添加",
+            "add_member_id": "使用 ID 添加",
+            "status_add_success": "添加成功",
+            "member_multi_group": "很抱歉！由于此人已经在太多的群组中，无法添加！",
+            "member_block_group": "无法添加！该用户已设置不允许添加到群组中！",
+            "member_deleted": "selected指定的用户已被删除。",
+            "member_blocked": "用户已被屏蔽。",
+            "member_no_contact": "提供的用户不是共同联系人。",
+            "file_empty": "未输入文件名",
+            "join_group": "加入组和频道",
+            "out_group": "退出组和频道",
+            "buff_comment_channel": "增加频道帖子的评论",
+            "buff_view_channel": "增加频道帖子的浏览次数",
+            "crawl_message_channel": "抓取群组和频道的内容",
+            "buff_channel_group": "增加频道或群组的情感",
+            "forward_message": "转发信息",
+            "add_phone_to_contact": "添加手机号到联系人",
+            "join_voice_call": "加入语音通话",
+            "btn_running": "正在运行...",
+            "no_select_account": "未选择帐户",
+            "thread_is_number": "线程数必须是数字",
+            "time_is_number": "时间最小值和最大值必须是数字",
+            "folder_avatar_empty": "未输入头像文件夹",
+            "folder_bio_empty": "未输入个人简介文件夹",
+            "folder_username_empty": "未输入用户名文件夹",
+            "folder_fullname_empty": "未输入全名文件夹",
+            "link_group_empty": "未输入组链接",
+            "link_group_clone": "未输入克隆组链接",
+            "totaladdbiggerzero": "总添加数必须大于 0",
+            "link_group_channel_empty": "未输入组或频道列表",
+            "id_post_empty": "未输入帖子 ID",
+            "id_post_is_number": "帖子 ID 必须是数字",
+            "id_group_empty": "群组ID不能为空",
+            "content_comment_empty": "评论内容不能为空",
+            "count_mess_empty": "消息数量不能为空",
+            "date_scan_empty": "扫描日期不能为空",
+            "list_phone_empty": "手机号列表不能为空",
+            "count_add_contact_bigger": "联系人添加数量必须大于0",
+            "script_empty": "脚本不能为空",
+            "user_spam_empty": "垃圾信息用户信息不能为空",
+            "Count_Mess_In_Group": "账户内的短信数量不能为空",
+            "Count_Group_In_Account": "账户内的群组数量不能为空",
+            "icon_empty": "图标不能为空",
+            "copy_done": "複製到緩衝區成功"
+        },
+        "contextMenu":
+        {
+            "select": "选择",
+            "selectt": "选择",
+            "select_all": "选择全部",
+            "select_live": "选择活跃账号",
+            "select_die": "选择失效账号",
+            "limit": "选择限制账号",
+            "not_limit": "选择非限制账号",
+            "reg": "选择注册不足3天的账号",
+            "unselect": "取消选择全部",
+            "check_live": "检查活跃状态/账号信息",
+            "check_spam": "检查垃圾信息",
+            "move_account": "移动账号",
+            "Remove": "删除帐号",
+            "remove_select": "从文件夹中删除选中账号",
+            "remove_local": "从本地计算机中删除账号",
+            "get_code": "獲取登錄碼",
+            "Convert_Tdata": "导出Tdata文件",
+            "Open_App_Telegram": "打开Telegram应用",
+            "Kill_App_Telegram": "关闭所有Telegram应用",
+            "Export_all_contact": "导出联系人",
+            "Export_session": "导出session文件",
+            "Export_username": "导出用户名",
+            "Export_phone": "导出电话号码",
+            "Export_id": "导出ID",
+            "Remove_all_Contact": "删除所有联系人",
+            "creatNewSession": "重新创建session",
+            "change_path": "更改session文件夹路径",
+            "chonProxyDie": "选择失效代理",
+            "addProxy": "添加代理",
+            "delProxy": "删除代理",
+            "CopyProxy": "导出已选择代理",
+            "SSSS": "選項 session",
+            "add_password": "添加密碼 2FA",
+            "Proxy": "選項 Proxy",
+            "App Telegram": "App Telegram",
+            "Export": "導出賬戶數據",
+            "CopyDanhBa": "复制同步的电话号码"        
+        },
+        "Function_CustomMenu":
+        {      
+
+            "folder_exists": "文件夹已存在",
+            "account_limit": "账号已被限制，请稍后重试！😭",
+            "account_not_limit": "账号未被限制！👍",
+            "copy_success": "复制成功",
+            "proxy_not_connect": "代理无法连接到Telegram，请检查！",
+            "account_new": "账号未满3天注册！",
+            "live": "活跃: ",
+            "die": "失效: "
+        },
+        "Telegram_Home":
+        {
+            "PeerFloodError": "[PEER_FLOOD] 请求过多，已停止！",
+            "FloodWaitError": "[FLOOD_WAIT_XXXX] 账户被限制",
+            "ChannelPrivateError": "指定的频道是私人的，您无权访问该频道。 另一个可能的原因是您已被禁止使用它。",
+            "ChatAdminRequiredError": "在指定的聊天中执行该操作需要聊天管理员的特权（例如，在不是您的频道中发送消息）或使用无效的权限进行了频道或组。",
+            "ChatInvalidError": "[CHAT_INVALID] 对于此请求，聊天无效。",
+            "ChatWriteForbiddenError": "[CHAT_WRITE_FORBIDDEN] 此组已阻止添加成员！",
+            "InputUserDeactivatedError": "指定的用户已被删除。",
+            "UserBannedInChannelError": "您在该组/频道中被禁止发送消息。",
+            "UserBlockedError": "该用户已被阻止。",
+            "UserChannelsTooMuchError": "对不起！ 无法添加此用户，因为他们已经在太多的群组中！",
+            "UserKickedError": "该用户已从此超级组/频道中删除。",
+            "UserPrivacyRestrictedError": "无法添加！ 此用户已设置不允许添加到群组！",
+            "UserNotMutualContactError": "提供的用户不是共同联系人。",
+            "ChannelsTooMuchError": "您加入了太多頻道/超級群組。",
+
+
+            "Done": "完成",
+            "End_Data": "数据结束",
+            "JoinVoice": {
+            "joining_call": "正在加入通话..."
+            },
+            "Forward_Post": {
+                "forward": "转发",
+                "success": "成功",
+                "failed": "失败"
+            },
+            "Remove_all_Contact": {
+                "getting_contact": "正在获取联系人列表",
+                "deleting": "正在删除..."
+            },
+            "Export_all_contact": {
+                "getting_contact": "正在获取联系人列表",
+                "not_contact": "没有任何联系人！",
+                "processing": "正在处理..."
+            },
+            "Convert_Tdata": {
+                "converting": "正在转换...",
+                "convert_success": "成功转换 Tdata！",
+                "convert_failed": "转换 Tdata 失败！"
+            },
+            "Get_Code": {
+                "not_code": "未找到验证码，请重新查找..."
+            },
+            "Crawl_Message": {
+                "processing_crawl_message": "正在爬取消息",
+                "processing_crawl_video": "正在下载视频",
+                "processing_crawl_image": "正在下载图片"
+            },
+            "Spam": {
+                "sendding": "正在发送消息给",
+                "send_success": "成功向用户发送消息",
+                "send_total": "总发送成功数",
+                "current_session": "未找到信息或会话已过期！"
+            },
+            "Buff_View": {
+                "view_success": "成功浏览",
+                "checking": "正在检查..."
+            },
+            "Comment_Channel": {
+                "comment_success": "成功评论内容",
+                "checking": "正在检查..."
+            },
+            "Add_Member": {
+                "not_group": "未找到群组",
+                "processing_adding": "正在添加成员...",
+                "adding": "正在添加：",
+                "addenough": "已经添加足够数量",
+                "success": "成功",
+                "failed": "失败",
+                "not_scanid": "无法扫描此 ID！",
+                "add_total": "成功添加成员数",
+                "member": "成员",
+                "current_session": "未找到信息或会话已过期！"
+            },
+            "Out_Group": {
+                "out": "退出",
+                "success": "成功",
+                "failed": "失败"
+            },
+            "Join_Group": {
+                "join": "加入群组",
+                "success": "成功",
+                "failed": "失败"
+            },
+            "get_list_id_group": {
+                "searching": "正在查找..."
+            },
+            "fillter_member": {
+                "scanning": "正在扫描群组..."
+            },
+            "changer_info": {
+                "success": "成功",
+                "failed": "失败",
+                "changer_avatar": "更改头像",
+                "delete_avatar": "删除头像",
+                "no_avatar": "找不到头像",
+                "changer_bio": "更改个人简介",
+                "delete_bio": "删除个人简介",
+                "changer_username": "更改用户名",
+                "delete_username": "删除用户名",
+                "changer_fullname": "更改全名",
+                "changer_2fa": "更改两步验证密码",
+                "current_pad": "旧密码不正确！",
+                "out_devies": "退出所有设备",
+                "changer_private": "更改隐私设置"
+            },
+            "check_spam": {
+                "checking": "正在检查垃圾邮件...>",
+                "no_limit": "账户没有被限制！👍",
+                "reg_new": "账户注册未满3天！",
+                "limit": "账户已被限制，请稍后再试！😭"
+            },
+            "check_live":{
+                "yes": "是",
+                "no": "没有"
+            },
+            "add_phone_to_session":
+            {
+                "addenough":"已添加足够的电话号码",
+                "adding_phone": "正在添加电话号码",
+                "success":"成功",
+                "failed":"失败"
+            },
+            "function":
+            {
+                "no_proxy": "未找到代理！",
+                "proxy_failed": "代理错误！",
+                "proxy_format": "代理格式错误",
+                "no_connect": "代理无法连接到 Telegram，请检查！",
+                "two_ip": "此帐户同时在两个不同的IP地址下使用，无法再使用。",
+                "ban_account": "帐户已永久封锁！😭",
+                "database_locked": "先前的任务突然停止，重新启动软件以修复错误！",
+                "not_file_database": "找不到会话文件！",
+                "login_success": "登录成功",
+                "changer_info": "更改信息",
+                "get_list_id_group": "获取群组ID列表",
+                "scan_member": "扫描成员",
+                "join_group": "加入群组/频道",
+                "out_group": "退出群组/频道",
+                "Add_Member": "添加成员",
+                "buff_comment_channel": "评论频道文章",
+                "buff_view_channel": "查看频道文章",
+                "spam": "垃圾邮件",
+                "crawl_message_channel": "爬取内容",
+                "Convert_Tdata": "转换Tdata",
+                "Export_all_contact": "导出联系人",
+                "Remove_all_Contact": "删除所有联系人",
+                "forward_message": "转发消息",
+                "add_phone_to_contact": "添加电话号码到联系人",
+                "join_voice_call": "加入语音通话",
+                "login_failed": "登录失败！😭"
+            }
+        },
+        "setText":
+        {
+            "label_6": "下載狀態",
+            "label_32": "全部的",
+            "label_33": "成功",
+            "label_34": "失敗",
+            "label_21": "全部的",
+            "label_22": "成功",
+            "label_23": "失敗",
+            "label_35": "全部的",
+            "label_36": "成功",
+            "label_37": "失敗",
+            "label_38": "全部的",
+            "label_39": "Live",
+            "label_40": "Die",
+            "btn_running":"跑步...",
+            "start_thread_btn": "开始",
+            "stop_thread_btn": "结束",
+            "import_account": "导入账户",
+            "changer_info_2": "更改信息",
+            "label_28": "总帐户：",
+            "label_29": "已选：",
+            "label_30": "在线：",
+            "label_31": "离线：",
+            "radio_changer_avatar": "更改头像",
+            "radio_delete_avatar": "删除头像",
+            "changer_bio": "更改简介",
+            "remove_bio": "删除简介",
+            "change_username": "更改用户名",
+            "delete_username": "删除用户名",
+            "change_username_3": "更改帐户名称",
+            "delete_username_3": "删除帐户名称",
+            "tick_2fa_3": "帐户名称",
+            "tick_2fa": "2FA密码",
+            "auth_2fa_new": "新2FA",
+            "open_username": "选择文件",
+            "open_bio": "选择文件",
+            "open_image": "选择文件夹",
+            "open_fullname": "选择文件夹",
+            "open_username_3": "选择文件夹",
+            "open_bio_2": "下载头像",
+            "tick_out_all_devcies": "注销所有设备",
+            "tick_changer_private": "为帐户启用隐私模式",
+            "tick_remove_all_mesage": "删除所有消息",
+            "btn_stack_add_member": "添加成员",
+            "btn_stack_scan_member": "扫描成员",
+            "btn_stack_extensions": "高级扩展",
+            "label_3": "从编号添加",
+            "label_5": "总添加/帐户",
+            "pushButton_23": "保存信息",
+            "pushButton_24": "导入数据",
+            "checkBox_10": "创建新表",
+            "label_10": "总计",
+            "tick_scan_public": "扫描公开群组",
+            "tick_scan_private": "扫描私人群组",
+            "tick_delete_admin": "删除管理员",
+            "tick_scan_vietnam": "越南",
+            "tick_scan_avatar": "有头像",
+            "btn_scan_id_group": "扫描所有组ID",
+            "btn_extract_data": "导出数据",
+            "radioButton_4": "根据链接退出组和频道",
+            "radioButton_6": "退出所有组和频道",
+            "open_username_2": "打开",
+            "radioButton_8": "24/7挂起评论",
+            "radioButton_7": "按帖子填充评论",
+            "radioButton_10": "24/7增加视图",
+            "radioButton_9": "按帖子增加视图",
+            "checkBox": "下载视频",
+            "checkBox_2": "下载图片",
+            "checkBox_3": "下载文本",
+            "label_4": "信息数量：",
+            "label_12": "从以下日期扫描：",
+            "import_forward": "导入用户名/组",
+            "label_27": "从编号添加：",
+            "label_20": "每个帐户的总添加数：",
+            "pushButton_2": "输入电话号码列表",
+            "pushButton_28": "发送垃圾短信",
+            "pushButton_27": "播种互动群",
+            "pushButton_29": "创建脚本",
+            "checkBox_15": "随机消息",
+            "checkBox_16": "复制消息",
+            "pushButton_30": "添加用户/电话号码",
+            "pushButton_31": "添加脚本",
+            "pushButton_33": "打开",
+            "checkBox_17": "随机回复",
+            "checkBox_19": "复制消息",
+            "removeUsernamecheck": "删除包含@username的消息",
+            "pushButton_39": "删除脚本",
+            "pushButton_32": "创建脚本",
+            "pushButton_37": "打开",
+            "pushButton_35": "打开",
+            "pushButton_40": "删除",
+            "pushButton_38": "添加",
+            "pushButton_36": "保存",
+            "btn_setting_proxy": "设置代理",
+            "save_proxy_2": "输入代理",
+            "save_proxy": "保存",
+            "start_thread_btn_3": "检查存活状态",
+            "useProxy": "是否使用代理运行?",
+            "proxyTable": "固定代理"
+        },
+        "setPlaceholder": 
+        {
+            "count_thread_line": "线程数",
+            "time_delay_min": "最小时间",
+            "time_delay_max": "最大时间",
+            "searchEdit": "搜索",
+            "edit_2fa": "在此处输入新的2FA",
+            "text_username": "添加username.txt文件路径",
+            "text_bio": "添加BIO.txt文件路径",
+            "text_image": "添加图片目录路径",
+            "text_fullname": "添加名称目录路径",
+            "text_username_3": "输入要下载的文件保存目录路径",
+            "plainTextEdit_11": "输入关键词(每行一个关键词)",
+            "lineEdit_10": "输入您的群组链接或ID",
+            "lineEdit_14":"输入您要扫描的群组链接或ID",
+            "plainTextEdit": "ID列表",
+            "lineEdit_9": "输入群组链接或ID",
+            "lineEdit_11": "输入文件名",
+            "plainTextEdit_2": "输入频道或组链接(每行一个链接)",
+            "plainTextEdit_3": "输入频道或组链接(每行一个链接)",
+            "text_username_2": "消息文件路径",
+            "plainTextEdit_6": "链接到频道或组",
+            "plainTextEdit_16": "帖子ID",
+            "plainTextEdit_4": "内容",
+            "lineEdit": "输入帖子ID",
+            "plainTextEdit_7": "輸入頻道或群組的鏈接（每行一個鏈接）",
+            "lineEdit_4": "DD/MM/YYYY",
+            "plainTextEdit_8": "輸入頻道或群組的鏈接（每行一個鏈接）",
+            "link_forward": "輸入要轉發的帖子鏈接",
+            "list_enti_send": "用戶名或用戶組列表（每行一個用戶名）",
+            "plainTextEdit_15": "輸入群組鏈接（不支持使用軟件傳輸，如 OBS、XSplit 等進行直播）",
+            "lineEdit_12": "消息/帳戶數量",
+            "lineEdit_13": "用戶/帳戶數量",
+            "lineEdit_15": "文件路徑",
+            "lineEdit_16": "你的群組鏈接",
+            "groupcopyEdit": "競爭對手的群組鏈接",
+            "offsetDateEdit": "掃描日期：dd/mm/yyyy",
+            "lineEdit_21": "圖片路徑",
+            "lineEdit_20": "文件路徑",
+            "plainTextEdit_12": "輸入種子內容",
+            "lineEdit_22": "腳本名稱",
+            "plainTextEdit_5": "在此輸入代理...",
+            "plainTextEdit_9": "活著的代理將出現在此處",
+            "plainTextEdit_10": "死亡的代理將出現在此處"
+        },
+        "comboBoxItem":
+        {
+            "comboBox_2": {
+                "addUsername": "通过用户名添加",
+                "addID": "通过ID添加",
+                "addPhone": "通过电话号码添加"
+            },
+            "option_scan": {
+                "all": "扫描所有成员",
+                "online": "在线",
+                "1d": "1 天",
+                "2d": "2 天",
+                "3d":"3 天",
+                "7d":"7 天",
+                "15d":"15 天",
+                "30d":"30 天"
+            },
+            "comboBox_4": {
+                "join_group": "加入群组和频道",
+                "out_group": "退出群组和频道",
+                "buff_comment_channel": "增加频道文章评论量",
+                "buff_view_channel":"增加频道文章观看量",
+                "crawl_message_channel": "抓取组和频道的内容",
+                "forward_message": "转发消息",
+                "add_phone_to_contact":"将电话号码添加到联系人",
+                "join_voice_call":"加入语音通话"
+            },
+            "comboBox": {
+                "seedingScript": "按剧本播种",
+                "seedingOnline": "实时播种"
+            },
+            "comboBox_3":
+            {
+                "spamU": "带有用户名的垃圾邮件",
+                "spamID": "垃圾邮件 ID",
+                "spamPhone": "垃圾电话号码"
+            }
+        },
+        "groupBox":
+        {
+            "groupBox": "选择用户名路径",
+            "groupBox_2": "选择个人简介路径",
+            "groupBox_3": "选择图片路径",
+            "groupBox_4": "选择姓名路径",
+            "groupBox_5": "自动抓取头像"
+        },
+        "tableWidget":
+        {
+            "add_table":
+            {
+                "0": "序号",
+                "1": "成员",
+                "2": "姓名",
+                "3": "状态"
+            },
+            "table_fillter":
+            {
+                "0": "序号",
+                "1": "ID",
+                "2": "用户名",
+                "3": "姓名",
+                "4": "姓氏",
+                "5": "头像",
+                "6": "在线状态"
+            },
+            "table_user":
+            {
+                "0": "序号",
+                "2": "成员"
+            },
+            "tableWidget_4":
+            {
+                "0": "图片",
+                "1": "文件",
+                "2": "内容"
+            },
+            "tableWidget_6":
+            {
+                "0": "图片",
+                "1": "文件",
+                "2": "内容"
+            },
+            "tableWidget_8":
+            {
+                "0": "图片",
+                "1": "文件",
+                "2": "内容"
+            },
+            "table_fillter_2":
+            {
+                "0": "序号",
+                "1": "电话号码",
+                "2": "状态"
+            }
+        }
+    },
+    "VI":{
+        "messageBox":
+        {
+            "done_msg": "Hoàn thành",
+            "tool_expiration": "Phần mềm đã hết hạn, vui lòng liên hệ với quản trị viên để gia hạn",
+            "phone_empty": "Số điện thoại không được để trống",
+            "creat_ss_success": "Session được tạo thành công",
+            "creat_ss_error": "Session tạo thất bại",
+            "save_success": "Đã lưu thành công",
+            "folder_image_empty": "Thư mục hình ảnh không được để trống",
+            "message_block_sex": "Không được sử dụng từ khóa nhạy cảm",
+            "warning_not_proxy": "Nếu bạn đồng ý sử dụng tính năng này, tài khoản của bạn sẽ có nguy cơ bị khóa vĩnh viễn. Bạn vẫn muốn tiếp tục chứ?",
+            "forever_tool": "Vĩnh viễn",
+            "expiration_date": "Ngày hết hạn",
+            "expiration": "Hết hạn",
+            "warning_check_live_proxy": "- Không cần kiểm tra proxy có định dạng ip:port:username:password.\n- Chỉ cần kiểm tra proxy loại ip:port.",
+            "add_member_phone": "Add member bằng số điện thoại",
+            "add_member_username": "Add member bằng username",
+            "add_member_id": "Add member bằng ID",
+            "status_add_success": "Thành công",
+            "member_multi_group": "Xin lỗi! Không thể thêm người này vì người này đã ở trong quá nhiều nhóm!",
+            "member_block_group": "Không thể thêm! Người dùng đã được thiết lập để không được thêm vào nhóm!",
+            "member_deleted": "Người dùng được chỉ định đã bị xóa.",
+            "member_blocked": "Người dùng đã bị chặn.",
+            "member_no_contact": "Người dùng được cung cấp không phải là liên hệ chung.",
+            "file_empty": "Tên file không được để trống",
+            "join_group": "Tham gia nhóm và kênh",
+            "out_group": "Thoát nhóm và kênh",
+            "buff_comment_channel": "Comment bài viết/channel",
+            "buff_view_channel": "Tăng lượt xem bài viết/channel",
+            "crawl_message_channel": "Cào nội dung nhóm hoặc kênh",
+            "buff_channel_group": "Tăng cảm xúc nhóm/kênh",
+            "forward_message": "Chuyển tiếp tin nhắn",
+            "add_phone_to_contact": "Thêm số điện thoại vào danh bạ",
+            "join_voice_call": "Tham gia voice call",
+            "btn_running": "Đang chạy...",
+            "no_select_account": "Chưa chọn tài khoản",
+            "thread_is_number": "Số luồng phải là số",
+            "time_is_number": "Time min và time max phải là sốsố",
+            "folder_avatar_empty": "Thư mục avatar không được để trống",
+            "folder_bio_empty": "Thư mục bio không được để trống",
+            "folder_username_empty": "Thư mục username không được để trống",
+            "folder_fullname_empty": "Thư mục họ tên không được để trống",
+            "link_group_empty": "Link nhóm không được để trống",
+            "link_group_clone": "Link nhóm đối thủ không được để trống",
+            "totaladdbiggerzero": "Số lượng add/ tài khoản phải lớn hơn 0",
+            "link_group_channel_empty": "Link group hoặc channel không được để trống",
+            "id_post_empty": "ID Post không được để trống",
+            "id_post_is_number": "ID Post phải là số",
+            "id_group_empty": "ID group không được để trống",
+            "content_comment_empty": "Nội dung bình luận không được để trống",
+            "count_mess_empty": "Số lượng tin nhắn không được để trống",
+            "date_scan_empty": "Ngày quét không được để trống",
+            "list_phone_empty": "Danh sách số điện thoại không được để trống",
+            "count_add_contact_bigger": "Số lượng thêm phải lớn hơn 0",
+            "script_empty": "Danh sách kịch bản không được để trống",
+            "user_spam_empty": "Danh sách spam không được để trốtrống",
+            "Count_Mess_In_Group": "Số lượng tin không được để trống",
+            "Count_Group_In_Account": "Số lượng tin không được để trống",
+            "icon_empty": "Icon không được để trống",
+            "copy_done": "Sao chép thành công"
+        },
+        "contextMenu":
+        {
+            "select": "Chọn",
+            "selectt": "chọn",
+            "select_all": "Chọn tất cả",
+            "select_live": "Chọn tài khoản live",
+            "select_die": "Chọn tài khoản die",
+            "limit": "Chọn tài khoản limit",
+            "not_limit": "Chọn tài khoản không limitlimit",
+            "reg": "Chọn tài khoản chưa reg đủ 3 ngày",
+            "unselect": "Bỏ chọn tất cả",
+            "check_live": "Check live/check thông tin",
+            "check_spam": "Check spam",
+            "move_account": "Di chuyển tài khoản sang thư mục khác",
+            "Remove": "Xóa tài khoản",
+            "remove_select": "Xóa tài khoản đã chọn khỏi thư mục",
+            "remove_local": "Xóa tài khoản đã chọn khỏi máy tính",
+            "get_code": "Lấy mã đăng nhập",
+            "Convert_Tdata": "Xuất file Tdata",
+            "Open_App_Telegram": "Mở ứng dụng Telegram",
+            "Kill_App_Telegram": "Đóng tất cả ứng dụng Telegram",
+            "Export_all_contact": "Xuất danh bạ",
+            "Export_session": "Xuất file session",
+            "Export_username": "Xuất username",
+            "Export_phone": "Xuất số điện thoại",
+            "Export_id": "Xuất ID",
+            "Remove_all_Contact": "Xóa tất cả liên hệ",
+            "creatNewSession": "Tái tạo file session",
+            "change_path": "Thay đổi đường dẫn thư mục session",
+            "chonProxyDie": "Chọn proxy die",
+            "addProxy": "Thêm Proxy",
+            "delProxy": "Xóa Proxy",
+            "CopyProxy": "Xuất proxy đã chọn",
+            "SSSS": "Tùy chọn session",
+            "add_password": "Thêm mật khẩu 2FA",
+            "Proxy": "Tùy chọn proxy",
+            "App Telegram": "Ứng dụng Telegram",
+            "Export": "Xuất dữ liệu tài khoản",
+            "CopyDanhBa": "Copy số điện thoại đã đồng bộ"
+        },
+        "Function_CustomMenu":
+        {      
+
+            "folder_exists": "Thư mục đã tồn tại",
+            "account_limit": "Tài khoản bị limit, vui lòng thử lại sau! 😭",
+            "account_not_limit": "Tài khoản không bị limit! 👍",
+            "copy_success": "Sao chép thành công",
+            "proxy_not_connect": "Proxy không thể kết nối với Telegram, vui lòng kiểm tra!",
+            "account_new": "Tài khoản tạo chưa đủ 3 ngày!",
+            "live": "Live: ",
+            "die": "Die: "
+        },
+        "Telegram_Home":
+        {
+            "PeerFloodError": "[PEER_FLOOD] Quá nhiều yêu cầu, đã dừng lại!",
+            "FloodWaitError": "Tài khoản [FLOOD_WAIT_XXXX] bị hạn chế",
+            "ChannelPrivateError": "Kênh được chỉ định là riêng tư và bạn không có quyền truy cập. Một lý do khác có thể là bạn đã bị cấm sử dụng kênh đó.",
+            "ChatAdminRequiredError": "Việc thực hiện hành động trong cuộc trò chuyện được chỉ định yêu cầu đặc quyền của quản trị viên trò chuyện (ví dụ: gửi tin nhắn trong kênh không phải của bạn) hoặc kênh hoặc nhóm được tạo với quyền không hợp lệ.",
+            "ChatInvalidError": "[CHAT_INVALID] Trò chuyện không hợp lệ đối với yêu cầu này.",
+            "ChatWriteForbiddenError": "[CHAT_WRITE_FORBIDDEN] Nhóm này đã bị chặn thêm thành viên!",
+            "InputUserDeactivatedError": "Người dùng được chỉ định đã bị xóa.",
+            "UserBannedInChannelError": "Bạn bị cấm gửi tin nhắn trong nhóm/kênh này.",
+            "UserBlockedError": "Người dùng đã bị chặn.",
+            "UserChannelsTooMuchError": "Xin lỗi! Không thể thêm người dùng này vì họ đã ở trong quá nhiều nhóm!",
+            "UserKickedError": "Người dùng đã bị xóa khỏi siêu nhóm/kênh này.",
+            "UserPrivacyRestrictedError": "Không thể thêm! Người dùng này đã được thiết lập để không được thêm vào nhóm!",
+            "UserNotMutualContactError": "Người dùng được cung cấp không phải là liên hệ chung.",
+            "ChannelsTooMuchError": "Bạn đã tham gia quá nhiều kênh/siêu nhóm.",
+
+
+            "Done": "Hoàn thành",
+            "End_Data": "Hết dữ liệu",
+            "JoinVoice": {
+            "joining_call": "Đang join voice..."
+            },
+            "Forward_Post": {
+                "forward": "Chuyển tiếp",
+                "success": "thành công",
+                "failed": "thất bại"
+            },
+            "Remove_all_Contact": {
+                "getting_contact": "Lấy danh sách liên hệ",
+                "deleting": "Đang xóa..."
+            },
+            "Export_all_contact": {
+                "getting_contact": "Lấy danh sách liên hệ",
+                "not_contact": "Không có liên hệ!",
+                "processing": "Đang xử lý..."
+            },
+            "Convert_Tdata": {
+                "converting": "Đang chuyển đổi...",
+                "convert_success": "Tdata đã chuyển đổi thành công!",
+                "convert_failed": "Không thể chuyển đổi Tdata!"
+            },
+            "Get_Code": {
+                "not_code": "Không tìm thấy mã xác minh, đang tìm lại..."
+            },
+            "Crawl_Message": {
+                "processing_crawl_message": "Đang cào tin nhắn",
+                "processing_crawl_video": "Đang tải xuống video",
+                "processing_crawl_image": "Đang tải xuống hình ảnh"
+            },
+            "Spam": {
+                "sending": "Đang gửi tin nhắn tới",
+                "send_success": "Gửi tin nhắn cho người dùng thành công",
+                "send_total": "Tổng số lần gửi thành công",
+                "current_session": "Không tìm thấy thông tin hoặc phiên hết hạn!"
+            },
+            "Buff_View": {
+                "view_success": "Tăng mắt xem thành công",
+                "checking": "Đang kiểm tra..."
+            },
+            "Comment_Channel": {
+                "comment_success": "Bình luận thành công",
+                "checking": "Đang kiểm tra..."
+            },
+            "Add_Member": {
+                "not_group": "Không tìm thấy nhóm",
+                "processing_adding": "Thêm thành viên...",
+                "adding": "Thêm:",
+                "addenough": "Đã thêm đủ số lượng!",
+                "success": "Thành công",
+                "failed": "Thất bại",
+                "not_scanid": "Không thể quét ID này!",
+                "add_total": "Số lượng thành viên được thêm thành công",
+                "member": "Thành viên",
+                "current_session": "Không tìm thấy thông tin hoặc phiên hết hạn!"
+            },
+            "Out_Group": {
+                "out": "Thoát",
+                "success": "Thành công",
+                "failed": "Thất bại"
+            },
+            "Join_Group": {
+                "join": "Tham gia nhóm",
+                "success": "Thành công",
+                "failed": "Thất bại"
+            },
+            "get_list_id_group": {
+                "searching": "Đang tìm kiếm..."
+            },
+            "fillter_member": {
+                "scanning": "Đang quét nhóm..."
+            },
+            "changer_info": {
+                "success": "Thành công",
+                "failed": "Không thành công",
+                "changer_avatar": "Thay đổi hình đại diện",
+                "delete_avatar": "Xóa hình đại diện",
+                "no_avatar": "Không tìm thấy hình đại diện",
+                "changer_bio": "Thay đổi bio",
+                "delete_bio": "Xóa bio",
+                "changer_username": "Thay đổi tên người dùng",
+                "delete_username": "Xóa tên người dùng",
+                "changer_fullname": "Thay đổi Họ Tên",
+                "changer_2fa": "Thay đổi mật khẩu 2FA",
+                "current_pad": "Mật khẩu cũ không đúng!",
+                "out_devies": "Thoát tất cả thiết bị",
+                "changer_private": "Thay đổi cài đặt bảo mật"
+            },
+            "check_spam": {
+                "checking": "Đang check spam...",
+                "no_limit": "Tài khoản không bị limit! 👍",
+                "reg_new": "Tài khoản tạo chưa đủ 3 ngày!",
+                "limit": "Tài khoản bị limit, vui lòng thử lại sau! 😭"
+            },
+            "check_live": {
+                "yes": "Có",
+                "no": "Không"
+            },
+            "add_phone_to_session":
+            {
+                "addenough": "Đã thêm đủ số điện thoại",
+                "ading_phone": "Thêm số điện thoại",
+                "success": "Thành công",
+                "failed": "Thất bại"
+            },
+            "function":
+            {
+                "no_proxy": "Không có proxy!",
+                "proxy_failed": "Proxy lỗi!",
+                "proxy_format": "Proxy sai",
+                "no_connect": "Proxy không thể kết nối với Telegram, vui lòng kiểm tra!",
+                "two_ip": "Tài khoản này được sử dụng dưới hai địa chỉ IP khác nhau cùng một lúc và không thể sử dụng lại.",
+                "ban_account": "Tài khoản đã bị khóa vĩnh viễn! 😭",
+                "database_locked": "Tác vụ trước dừng đột ngột, khởi động lại phần mềm để sửa lỗi!",
+                "not_file_database": "Không tìm thấy file session!",
+                "login_success": "Đăng nhập thành công",
+                "changer_info": "Thay đổi thông tin",
+                "get_list_id_group": "Lấy danh sách ID nhóm",
+                "scan_member": "Quét thành viên",
+                "join_group": "Tham gia nhóm/kênh",
+                "out_group": "Thoát Nhóm/Kênh",
+                "Add_Member": "Thêm thành viên",
+                "buff_comment_channel": "Bình luận bài viết trên kênh",
+                "buff_view_channel": "Xem bài viết của kênh",
+                "spam": "Spam",
+                "crawl_message_channel": "Thu thập nội dung",
+                "Convert_Tdata": "Chuyển đổi Tdata",
+                "Export_all_contact": "Xuất danh bạ",
+                "Remove_all_Contact": "Xóa tất cả liên hệ",
+                "forward_message": "Chuyển tiếp tin nhắn",
+                "add_phone_to_contact": "Thêm số điện thoại để liên hệ",
+                "join_voice_call": "Tham gia cuộc gọi thoại",
+                "login_failed": "Đăng nhập thất bại! 😭"
+            }
+        },
+        "setText":
+        {
+            "label_6": "Trạng thái tải xuống",
+            "label_32": "Tổng",
+            "label_33": "Thành công",
+            "label_34": "Thất bại",
+            "label_21": "Tổng",
+            "label_22": "Thành công",
+            "label_23": "Thất bại",
+            "label_35": "Tổng",
+            "label_36": "Thành công",
+            "label_37": "Thất bại",
+            "label_38": "Tổng",
+            "label_39": "Live",
+            "label_40": "Die",
+            "btn_running": "Đang chạy...",
+            "start_thread_btn": "Bắt đầu",
+            "stop_thread_btn": "Kết thúc",
+            "import_account": "Nhập tài khoản",
+            "changer_info_2": "Thay đổi thông tin",
+            "label_28": "Tổng tài khoản:",
+            "label_29": "Đã chọn:",
+            "label_30": "Live",
+            "label_31": "Die",
+            "radio_changer_avatar": "Thay đổi hình đại diện",
+            "radio_delete_avatar": "Xóa hình đại diện",
+            "changer_bio": "Thay đổi bio",
+            "remove_bio": "Xóa bio",
+            "change_username": "Thay đổi tên người dùng",
+            "delete_username": "Xóa tên người dùng",
+            "change_username_3": "Thay đổi tên tài khoản",
+            "delete_username_3": "Xóa tên tài khoản",
+            "tick_2fa_3": "Tên tài khoản",
+            "tick_2fa": "Mật khẩu 2FA",
+            "auth_2fa_new": "2FA mới",
+            "open_username": "Chọn Tệp",
+            "open_bio": "Chọn tập tin",
+            "open_image": "Chọn Thư mục",
+            "open_fullname": "Chọn Thư Mục",
+            "open_username_3": "Chọn Thư mục",
+            "open_bio_2": "Tải hình đại diện xuống",
+            "tick_out_all_devcies": "Xóa tất cả thiết bị",
+            "tick_changer_private": "Bật chế độ riêng tư cho tài khoản",
+            "tick_remove_all_mesage": "Xóa tất cả tin nhắn",
+            "btn_stack_add_member": "Thêm thành viên",
+            "btn_stack_scan_member": "Quét thành viên",
+            "btn_stack_extensions": "Tiện ích nâng cao",
+            "label_3": "Thêm từ số",
+            "label_5": "Tổng số thêm/Tài khoản",
+            "pushButton_23": "Lưu thông tin",
+            "pushButton_24": "Nhập dữ liệu",
+            "checkBox_10": "Tạo bảng mới",
+            "label_10": "Tổng cộng",
+            "tick_scan_public": "Quét nhóm công khai",
+            "tick_scan_private": "Quét nhóm riêng tư",
+            "tick_delete_admin": "Xóa quản trị viên",
+            "tick_scan_vietnam": "Việt Nam",
+            "tick_scan_avatar": "Có hình đại diện",
+            "btn_scan_id_group": "Quét tất cả ID nhóm",
+            "btn_extract_data": "Xuất dữ liệu",
+            "radioButton_4": "Rời nhóm và kênh theo liên kết",
+            "radioButton_6": "Thoát khỏi tất cả các nhóm và kênh",
+            "open_username_2": "Mở",
+            "radioButton_8": "Bình luận  24/7",
+            "radioButton_7": "Bình luận theo bài đăng",
+            "radioButton_10": "Tăng mắt xem 24/7",
+            "radioButton_9": "Tăng mắt xem theo bài đăng",
+            "hộp kiểm": "Tải xuống Video",
+            "checkBox_2": "Tải ảnh",
+            "checkBox_3": "Tải văn bản",
+            "label_4": "Số lượng tin:",
+            "label_12": "Quét từ ngày:",
+            "import_forward": "Nhập người dùng/nhóm",
+            "label_27": "Thêm từ số:",
+            "label_20": "Tổng số thêm/tài khoản:",
+            "pushButton_2": "Nhập danh sách số điện thoại",
+            "pushButton_28": "Spam tin nhắn",
+            "pushButton_27": "Seeding tương tác nhóm",
+            "pushButton_29": "Tạo kịch bản",
+            "checkBox_15": "Tin nhắn ngẫu nhiên",
+            "checkBox_16": "Nhân bản tin nhắn",
+            "pushButton_30": "Thêm dữ liệu",
+            "pushButton_31": "Thêm kịch bản",
+            "pushButton_33": "Mở",
+            "checkBox_17": "Trả lời ngẫu nhiên",
+            "checkBox_19": "Nhân bản tin nhắn",
+            "removeUsernamecheck": "Xóa tin nhắn chứa @username",
+            "pushButton_39": "Xóa kịch bản",
+            "pushButton_32": "Tạo kịch bản",
+            "pushButton_37": "Mở",
+            "pushButton_35": "Mở",
+            "pushButton_40": "Xóa",
+            "pushButton_38": "Thêm",
+            "pushButton_36": "Lưu",
+            "btn_setting_proxy": "Cài đặt Proxy",
+            "save_proxy_2": "Nhập Proxy",
+            "save_proxy": "Lưu",
+            "start_thread_btn_3": "Check live",
+            "useProxy": "Chạy không sử dụng Proxy?",
+            "proxyTable": "Proxy cố định"
+        },
+        "setPlaceholder": 
+        {
+            "count_thread_line": "Số luồng",
+            "time_delay_min": "Min delay",
+            "time_delay_max": "Max delay",
+            "searchEdit": "Tìm kiếm",
+            "edit_2fa": "Nhập 2FA mới tại đây",
+            "text_username": "Thêm đường dẫn tệp username.txt",
+            "text_bio": "Thêm đường dẫn tệp BIO.txt",
+            "text_image": "Thêm đường dẫn thư mục ảnh",
+            "text_fullname": "Thêm tên đường dẫn thư mục",
+            "text_username_3": "Nhập đường dẫn thư mục để lưu tệp sẽ được tải xuống",
+            "plainTextEdit_11": "Nhập từ khóa (một từ khóa trên mỗi dòng)",
+            "lineEdit_10": "Nhập liên kết hoặc ID nhóm của bạn",
+            "lineEdit_14": "Nhập liên kết hoặc ID của nhóm bạn muốn quét",
+            "plainTextEdit": "Danh sách ID",
+            "lineEdit_9": "Nhập liên kết nhóm hoặc ID",
+            "lineEdit_11": "Nhập tên tập tin",
+            "plainTextEdit_2": "Nhập liên kết kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "plainTextEdit_3": "Nhập liên kết kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "text_username_2": "Đường dẫn tệp thư",
+            "plainTextEdit_6": "Liên kết tới kênh hoặc nhóm",
+            "plainTextEdit_16": "ID bài đăng",
+            "plainTextEdit_4": "Nội dung",
+            "lineEdit": "Nhập ID bài đăng",
+            "plainTextEdit_7": "Nhập liên kết cho kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "lineEdit_4": "DD/MM/YYYY",
+            "plainTextEdit_8": "Nhập liên kết cho kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "link_forward": "Nhập liên kết của bài đăng để chuyển tiếp",
+            "list_enti_send": "Danh sách tên người dùng hoặc nhóm (một tên người dùng trên mỗi dòng)",
+            "plainTextEdit_15": "Nhập liên kết nhóm (không hỗ trợ phát trực tiếp bằng truyền phần mềm, chẳng hạn như OBS, XSplit, v.v.)",
+            "lineEdit_12": "Số tin nhắn/tài khoản",
+            "lineEdit_13": "Số người dùng/tài khoản",
+            "lineEdit_15": "Đường dẫn file",
+            "lineEdit_16": "Link nhóm của bạn",
+            "groupcopyEdit": "Link nhóm của đối thủ",
+            "offsetDateEdit": "Ngày quét: dd/mm/yyyy",
+            "lineEdit_21": "Đường dẫn ảnh",
+            "lineEdit_20": "Đường dẫn tệp",
+            "plainTextEdit_12": "Nhập nội dung seeding",
+            "lineEdit_22": "Tên kịch bảnn",
+            "plainTextEdit_5": "Nhập proxy tại đây...",
+            "plainTextEdit_9": "Proxy live sẽ xuất hiện ở đây",
+            "plainTextEdit_10": "Proxy die sẽ xuất hiện ở đây"
+        },
+        "comboBoxItem":
+        {
+            "comboBox_2": {
+                "addUsername": "Add member bằng username",
+                "addID": "Add member bằng ID",
+                "addPhone": "Add member bằng số điện thoại"
+            },
+            "option_scan": {
+                "all": "Quét tất cả thành viên",
+                "online": "Online",
+                "1d": "1 ngày",
+                "2d": "2 ngày",
+                "3d": "3 ngày",
+                "7d": "7 ngày",
+                "15d": "15 ngày",
+                "30d": "30 ngày"
+            },
+            "comboBox_4": {
+                "join_group": "Tham gia group và channel",
+                "out_group": "Thoát group và channel",
+                "buff_comment_channel": "Buff bình luận bài viết channel",
+                "buff_view_channel": "Buff view bài viết channel",
+                "crawl_message_channel": "Cào nội dung nhóm và kênh",
+                "forward_message": "Chuyển tiếp tin nhắn",
+                "add_phone_to_contact": "Thêm số điện thoại vào danh bạ",
+                "join_voice_call": "Tham gia voice call"
+            },
+            "comboBox": {
+                "seedingScript": "Seeding theo kịch bản",
+                "seedingOnline": "Seeding thời gian thực"
+            },
+            "comboBox_3":
+            {
+                "spamU": "Spam bằng username",
+                "spamID": "Spam bằng ID",
+                "spamPhone": "Spam bằng số điện thoại"
+            }
+        },
+        "groupBox":
+        {
+            "groupBox": "Chọn đường dẫn username",
+            "groupBox_2": "Chọn đường dẫn bio",
+            "groupBox_3": "Chọn đường dẫn ảnh",
+            "groupBox_4": "Chọn đường dẫn họ tên",
+            "groupBox_5": "Tự động chụp avatar"
+        },
+        "tableWidget":
+        {
+            "add_table":
+            {
+                "0": "STT",
+                "1": "Thành viên",
+                "2": "Tên",
+                "3": "Trạng thái"
+            },
+            "table_fillter":
+            {
+                "0": "STT",
+                "1": "ID",
+                "2": "Tên người dùng",
+                "3": "Tên",
+                "4": "họ",
+                "5": "Hình đại diện",
+                "6": "Trạng thái"
+            },
+            "table_user":
+            {
+                "0": "STT",
+                "2": "Thành viên"
+            },
+            "tableWidget_4":
+            {
+                "0": "Hình ảnh",
+                "1": "File",
+                "2": "Nội dung"
+            },
+            "tableWidget_6":
+            {
+                "0": "Hình ảnh",
+                "1": "File",
+                "2": "Nội dung"
+            },
+            "tableWidget_8":
+            {
+                "0": "Hình ảnh",
+                "1": "File",
+                "2": "Nội dung"
+            },
+            "table_fillter_2":
+            {
+                "0": "STT",
+                "1": "Số điện thoại",
+                "2": "Trạng thái"
+            }
+        }
+    }
+}
