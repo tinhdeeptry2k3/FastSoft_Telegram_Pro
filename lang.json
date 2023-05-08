@@ -1,5 +1,11 @@
 {
     "CH":{
+        "APP_TELEGRAM":
+        {
+            "e_ss_success": "导出会话成功",
+            "e_ss_failed": "会话导出失败",
+            "open_app": "正在打开应用程序..."
+        },
         "messageBox":
         {
             "done_msg": "完全的",
@@ -483,7 +489,8 @@
             "table_user":
             {
                 "0": "序号",
-                "2": "成员"
+                "2": "成员",
+                "3": "全名"
             },
             "tableWidget_4":
             {
@@ -512,6 +519,12 @@
         }
     },
     "VI":{
+        "APP_TELEGRAM":
+        {
+            "e_ss_success": "Xuất session thành công",
+            "e_ss_failed": "Xuất session thất bại",
+            "open_app": "Đang mở APP..."
+        },
         "messageBox":
         {
             "done_msg": "Hoàn thành",
@@ -995,7 +1008,8 @@
             "table_user":
             {
                 "0": "STT",
-                "2": "Thành viên"
+                "2": "Thành viên",
+                "3": "Họ tên"
             },
             "tableWidget_4":
             {
@@ -1024,6 +1038,12 @@
         }
     },
     "EN": {
+        "APP_TELEGRAM":
+        {
+            "e_ss_success": "Export session success",
+            "e_ss_failed": "Export session failed",
+            "open_app": "Opening APP..."
+        },
         "messageBox": {
             "done_msg": "Completed",
             "tool_expiration": "The software has expired, please contact the administrator to renew",
@@ -1498,7 +1518,8 @@
             },
             "table_user": {
                 "0": "No",
-                "2": "Member"
+                "2": "Member",
+                "3": "Fullname"
             },
             "tableWidget_4": {
                 "0": "Image",
