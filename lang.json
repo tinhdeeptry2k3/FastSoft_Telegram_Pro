@@ -907,29 +907,29 @@
             "text_fullname": "Thêm tên đường dẫn thư mục",
             "text_username_3": "Nhập đường dẫn thư mục để lưu tệp sẽ được tải xuống",
             "plainTextEdit_11": "Nhập từ khóa (một từ khóa trên mỗi dòng)",
-            "lineEdit_10": "Nhập liên kết hoặc ID nhóm của bạn",
-            "lineEdit_14": "Nhập liên kết hoặc ID của nhóm muốn quét",
+            "lineEdit_10": "Nhập link/ID nhóm của bạn",
+            "lineEdit_14": "Nhập link/ID nhóm muốn quét",
             "plainTextEdit": "Danh sách ID",
-            "lineEdit_9": "Nhập liên kết nhóm hoặc ID",
+            "lineEdit_9": "Nhập link nhóm hoặc ID",
             "lineEdit_11": "Nhập tên tập tin",
-            "plainTextEdit_2": "Nhập liên kết kênh hoặc nhóm (mỗi liên kết/dòng)",
-            "plainTextEdit_3": "Nhập liên kết kênh hoặc nhóm (mỗi liên kết/dòng)",
-            "text_username_2": "Đường dẫn tệp thư",
-            "plainTextEdit_6": "Liên kết tới kênh hoặc nhóm",
+            "plainTextEdit_2": "Nhập link kênh hoặc nhóm (mỗi link/dòng)",
+            "plainTextEdit_3": "Nhập link kết kênh hoặc nhóm (mỗi link/dòng)",
+            "text_username_2": "Đường dẫn tệp bình luận có sẵn",
+            "plainTextEdit_6": "Link tới kênh hoặc nhóm",
             "plainTextEdit_16": "ID bài đăng",
             "plainTextEdit_4": "Nội dung",
             "lineEdit": "Nhập ID bài đăng",
-            "plainTextEdit_7": "Nhập liên kết cho kênh hoặc nhóm (mỗi liên kết/dòng)",
+            "plainTextEdit_7": "Nhập link kênh/nhóm (mỗi link/dòng)",
             "lineEdit_4": "DD/MM/YYYY",
-            "plainTextEdit_8": "Nhập liên kết cho kênh hoặc nhóm (một liên kết/dòng)",
-            "link_forward": "Nhập liên kết của bài đăng để chuyển tiếp",
+            "plainTextEdit_8": "Nhập link kênh/nhóm (một link/dòng)",
+            "link_forward": "Nhập link của bài đăng để chuyển tiếp",
             "list_enti_send": "Danh sách tên người dùng hoặc nhóm (mỗi username/dòng)",
-            "plainTextEdit_15": "Nhập liên kết nhóm (không hỗ trợ phát trực tiếp qua các phần mềm: OBS, XSplit, v.v.)",
+            "plainTextEdit_15": "Nhập link nhóm (không hỗ trợ phát trực tiếp qua các phần mềm: OBS, XSplit, v.v.)",
             "lineEdit_12": "Số tin nhắn/tài khoản",
             "lineEdit_13": "Số người dùng/tài khoản",
             "lineEdit_15": "Đường dẫn file",
-            "lineEdit_16": "Liên kết nhóm của bạn",
-            "groupcopyEdit": "kết nhóm của đối thủ",
+            "lineEdit_16": "Link nhóm của bạn",
+            "groupcopyEdit": "Link nhóm cần quét",
             "offsetDateEdit": "Ngày quét: dd/mm/yyyy",
             "lineEdit_21": "Đường dẫn ảnh",
             "lineEdit_20": "Đường dẫn tệp",
@@ -942,9 +942,9 @@
         "comboBoxItem":
         {
             "comboBox_2": {
-                "addUsername": "Add member bằng Username",
-                "addID": "Add member bằng ID",
-                "addPhone": "Add member bằng số điện thoại"
+                "addUsername": "Add member qua Username",
+                "addID": "Add member qua ID",
+                "addPhone": "Add member qua số điện thoại"
             },
             "option_scan": {
                 "all": "Quét tất cả thành viên",
@@ -957,25 +957,25 @@
                 "30d": "30 ngày"
             },
             "comboBox_4": {
-                "join_group": "Tham gia nhóm và channel",
-                "out_group": "Thoát group và channel",
-                "buff_comment_channel": "Buff bình luận bài viết channel",
-                "buff_view_channel": "Buff view bài viết channel",
-                "buff_react_channel":"Buff cảm xúc channel hoặc group",
-                "crawl_message_channel": "Cào nội dung nhóm và kênh",
+                "join_group": "Tham gia nhóm/channel",
+                "out_group": "Thoát group/channel",
+                "buff_comment_channel": "Tăng bình luận bài đăng kênh",
+                "buff_view_channel": "Tăng lượt xem bài đăng kênh",
+                "buff_react_channel":"Tăng cảm xúc bài đăng nhóm/kênh",
+                "crawl_message_channel": "Cào nội dung nhóm/kênh",
                 "forward_message": "Chuyển tiếp tin nhắn",
-                "add_phone_to_contact": "Thêm số điện thoại vào danh bạ",
+                "add_phone_to_contact": "Thêm list SDT vào danh bạ",
                 "join_voice_call": "Tham gia voice call"
             },
             "comboBox": {
                 "seedingScript": "Seeding theo kịch bản",
-                "seedingOnline": "Seeding thời gian thực"
+                "seedingOnline": "Seeding thời gian thực 24/7"
             },
             "comboBox_3":
             {
-                "spamU": "Spam qua username",
+                "spamU": "Spam qua Username",
                 "spamID": "Spam qua ID",
-                "spamPhone": "Spam bằng số điện thoại"
+                "spamPhone": "Spam qua số điện thoại"
             }
         },
         "groupBox":
@@ -999,9 +999,9 @@
             {
                 "0": "STT",
                 "1": "ID",
-                "2": "Tên người dùng",
+                "2": "Username",
                 "3": "Tên",
-                "4": "họ",
+                "4": "Họ",
                 "5": "Hình đại diện",
                 "6": "Trạng thái"
             },
@@ -1009,7 +1009,7 @@
             {
                 "0": "STT",
                 "2": "Thành viên",
-                "3": "Họ tên"
+                "3": "Tên"
             },
             "tableWidget_4":
             {
