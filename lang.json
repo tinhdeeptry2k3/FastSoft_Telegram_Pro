@@ -1413,7 +1413,7 @@
         },
         "setPlaceholder":
         {
-            "count_thread_line": "Number of threads",
+            "count_thread_line": "Thread number",
             "time_delay_min": "Min delay",
             "time_delay_max": "Max delay",
             "searchEdit": "Search",
