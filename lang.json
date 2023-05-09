@@ -527,7 +527,7 @@
         },
         "messageBox":
         {
-            "done_msg": "Hoàn thành",
+            "done_msg": "Hoàn thành!",
             "tool_expiration": "Phần mềm đã hết hạn, vui lòng liên hệ với quản trị viên để gia hạn",
             "phone_empty": "Số điện thoại không được để trống",
             "creat_ss_success": "Session được tạo thành công",
@@ -541,20 +541,20 @@
             "expiration": "Hết hạn",
             "warning_check_live_proxy": "- Không cần kiểm tra proxy có định dạng ip:port:username:password.\n- Chỉ cần kiểm tra proxy loại ip:port.",
             "add_member_phone": "Add member bằng số điện thoại",
-            "add_member_username": "Add member bằng username",
+            "add_member_username": "Add member bằng Username",
             "add_member_id": "Add member bằng ID",
             "status_add_success": "Thành công",
-            "member_multi_group": "Xin lỗi! Không thể thêm người này vì người này đã ở trong quá nhiều nhóm!",
-            "member_block_group": "Không thể thêm! Người dùng đã được thiết lập để không được thêm vào nhóm!",
+            "member_multi_group": "Xin lỗi! Không thể thêm người này vì họ đã ở trong quá nhiều nhóm.",
+            "member_block_group": "Không thể thêm! Người dùng đã chặn người khác thêm họ vào nhóm.",
             "member_deleted": "Người dùng được chỉ định đã bị xóa.",
             "member_blocked": "Người dùng đã bị chặn.",
             "member_no_contact": "Người dùng được cung cấp không phải là liên hệ chung.",
             "file_empty": "Tên file không được để trống",
             "join_group": "Tham gia nhóm và kênh",
             "out_group": "Thoát nhóm và kênh",
-            "buff_comment_channel": "Comment bài viết/channel",
-            "buff_view_channel": "Tăng lượt xem bài viết/channel",
-            "crawl_message_channel": "Cào nội dung nhóm hoặc kênh",
+            "buff_comment_channel": "Tăng bình luận bài viết kênh",
+            "buff_view_channel": "Tăng lượt xem bài viết kênh",
+            "crawl_message_channel": "Cào nội dung nhóm/kênh",
             "buff_channel_group": "Tăng cảm xúc nhóm/kênh",
             "forward_message": "Chuyển tiếp tin nhắn",
             "add_phone_to_contact": "Thêm số điện thoại vào danh bạ",
@@ -562,17 +562,17 @@
             "btn_running": "Đang chạy...",
             "no_select_account": "Chưa chọn tài khoản",
             "thread_is_number": "Số luồng phải là số",
-            "time_is_number": "Time min và time max phải là sốsố",
+            "time_is_number": "Time min và time max phải là số",
             "folder_avatar_empty": "Thư mục avatar không được để trống",
             "folder_bio_empty": "Thư mục bio không được để trống",
             "folder_username_empty": "Thư mục username không được để trống",
             "folder_fullname_empty": "Thư mục họ tên không được để trống",
             "link_group_empty": "Link nhóm không được để trống",
             "link_group_clone": "Link nhóm đối thủ không được để trống",
-            "totaladdbiggerzero": "Số lượng add/ tài khoản phải lớn hơn 0",
+            "totaladdbiggerzero": "Số lượng add/tài khoản phải lớn hơn 0",
             "link_group_channel_empty": "Link group hoặc channel không được để trống",
-            "id_post_empty": "ID Post không được để trống",
-            "id_post_is_number": "ID Post phải là số",
+            "id_post_empty": "ID bài viết không được để trống",
+            "id_post_is_number": "ID bài viết phải là số",
             "id_group_empty": "ID group không được để trống",
             "content_comment_empty": "Nội dung bình luận không được để trống",
             "count_mess_empty": "Số lượng tin nhắn không được để trống",
@@ -634,7 +634,7 @@
             "account_not_limit": "Tài khoản không bị limit! 👍",
             "copy_success": "Sao chép thành công",
             "proxy_not_connect": "Proxy không thể kết nối với Telegram, vui lòng kiểm tra!",
-            "account_new": "Tài khoản tạo chưa đủ 3 ngày!",
+            "account_new": "Tài khoản được tạo ra chưa đủ 3 ngày!",
             "live": "Live: ",
             "die": "Die: "
         },
@@ -642,16 +642,16 @@
         {
             "PeerFloodError": "[PEER_FLOOD] Quá nhiều yêu cầu, đã dừng lại!",
             "FloodWaitError": "Tài khoản [FLOOD_WAIT_XXXX] bị hạn chế",
-            "ChannelPrivateError": "Kênh được chỉ định là riêng tư và bạn không có quyền truy cập. Một lý do khác có thể là bạn đã bị cấm sử dụng kênh đó.",
+            "ChannelPrivateError": "Kênh được chỉ định là riêng tư và bạn không có quyền truy cập. Một lý do khác có thể là bạn đã bị cấm thao tác kênh đó.",
             "ChatAdminRequiredError": "Việc thực hiện hành động trong cuộc trò chuyện được chỉ định yêu cầu đặc quyền của quản trị viên trò chuyện (ví dụ: gửi tin nhắn trong kênh không phải của bạn) hoặc kênh hoặc nhóm được tạo với quyền không hợp lệ.",
-            "ChatInvalidError": "[CHAT_INVALID] Trò chuyện không hợp lệ đối với yêu cầu này.",
+            "ChatInvalidError": "[CHAT_INVALID] Cuộc trò chuyện không hợp lệ cho yêu cầu này.",
             "ChatWriteForbiddenError": "[CHAT_WRITE_FORBIDDEN] Nhóm này đã bị chặn thêm thành viên!",
             "InputUserDeactivatedError": "Người dùng được chỉ định đã bị xóa.",
             "UserBannedInChannelError": "Bạn bị cấm gửi tin nhắn trong nhóm/kênh này.",
             "UserBlockedError": "Người dùng đã bị chặn.",
             "UserChannelsTooMuchError": "Xin lỗi! Không thể thêm người dùng này vì họ đã ở trong quá nhiều nhóm!",
             "UserKickedError": "Người dùng đã bị xóa khỏi siêu nhóm/kênh này.",
-            "UserPrivacyRestrictedError": "Không thể thêm! Người dùng này đã được thiết lập để không được thêm vào nhóm!",
+            "UserPrivacyRestrictedError": "Không thể thêm! Người dùng đã chặn người khác thêm họ vào nhóm.",
             "UserNotMutualContactError": "Người dùng được cung cấp không phải là liên hệ chung.",
             "ChannelsTooMuchError": "Bạn đã tham gia quá nhiều kênh/siêu nhóm.",
 
@@ -659,12 +659,12 @@
             "Done": "Hoàn thành",
             "End_Data": "Hết dữ liệu",
             "JoinVoice": {
-            "joining_call": "Đang join voice..."
+            "joining_call": "Đang tham gia voice..."
             },
             "Forward_Post": {
                 "forward": "Chuyển tiếp",
-                "success": "thành công",
-                "failed": "thất bại"
+                "success": "Thành công",
+                "failed": "Thất bại"
             },
             "Remove_all_Contact": {
                 "getting_contact": "Lấy danh sách liên hệ",
@@ -677,42 +677,42 @@
             },
             "Convert_Tdata": {
                 "converting": "Đang chuyển đổi...",
-                "convert_success": "Tdata đã chuyển đổi thành công!",
+                "convert_success": "Chuyển đổi Tdata thành công!",
                 "convert_failed": "Không thể chuyển đổi Tdata!"
             },
             "Get_Code": {
                 "not_code": "Không tìm thấy mã xác minh, đang tìm lại..."
             },
             "Crawl_Message": {
-                "processing_crawl_message": "Đang cào tin nhắn",
-                "processing_crawl_video": "Đang tải xuống video",
-                "processing_crawl_image": "Đang tải xuống hình ảnh"
+                "processing_crawl_message": "Đang tiến hành cào tin nhắn...",
+                "processing_crawl_video": "Đang tiến hành tải xuống video...",
+                "processing_crawl_image": "Đang tiến hành tải xuống hình ảnh..."
             },
             "Spam": {
                 "sending": "Đang gửi tin nhắn tới",
                 "send_success": "Gửi tin nhắn cho người dùng thành công",
                 "send_total": "Tổng số lần gửi thành công",
-                "current_session": "Không tìm thấy thông tin hoặc phiên hết hạn!"
+                "current_session": "Không tìm thấy thông tin hoặc session đã cũ!"
             },
             "Buff_View": {
-                "view_success": "Tăng mắt xem thành công",
-                "checking": "Đang kiểm tra..."
+                "view_success": "Tăng lượt xem thành công",
+                "checking": "Đang tìm kiếm bài viết..."
             },
             "Comment_Channel": {
-                "comment_success": "Bình luận thành công",
-                "checking": "Đang kiểm tra..."
+                "comment_success": "Tăng bình luận thành công",
+                "checking": "Đang tìm kiếm bài viết..."
             },
             "Add_Member": {
                 "not_group": "Không tìm thấy nhóm",
-                "processing_adding": "Thêm thành viên...",
-                "adding": "Thêm:",
+                "processing_adding": "Đang tiến hành thêm thành viên...",
+                "adding": "Đang thêm:",
                 "addenough": "Đã thêm đủ số lượng!",
                 "success": "Thành công",
                 "failed": "Thất bại",
                 "not_scanid": "Không thể quét ID này!",
-                "add_total": "Số lượng thành viên được thêm thành công",
+                "add_total": "Đã thêm thành công",
                 "member": "Thành viên",
-                "current_session": "Không tìm thấy thông tin hoặc phiên hết hạn!"
+                "current_session": "Không tìm thấy thông tin hoặc session đã cũ!"
             },
             "Out_Group": {
                 "out": "Thoát",
@@ -728,11 +728,11 @@
                 "searching": "Đang tìm kiếm..."
             },
             "fillter_member": {
-                "scanning": "Đang quét nhóm..."
+                "scanning": "Đang tiến hành quét thành viên..."
             },
             "changer_info": {
                 "success": "Thành công",
-                "failed": "Không thành công",
+                "failed": "Thất bại",
                 "changer_avatar": "Thay đổi hình đại diện",
                 "delete_avatar": "Xóa hình đại diện",
                 "no_avatar": "Không tìm thấy hình đại diện",
@@ -747,8 +747,8 @@
                 "changer_private": "Thay đổi cài đặt bảo mật"
             },
             "check_spam": {
-                "checking": "Đang check spam...",
-                "no_limit": "Tài khoản không bị limit! 👍",
+                "checking": "Đang tiến hành check spam...",
+                "no_limit": "Tuyệt vời, tài khoản không bị limit! 👍",
                 "reg_new": "Tài khoản tạo chưa đủ 3 ngày!",
                 "limit": "Tài khoản bị limit, vui lòng thử lại sau! 😭"
             },
@@ -758,27 +758,27 @@
             },
             "add_phone_to_session":
             {
-                "addenough": "Đã thêm đủ số điện thoại",
-                "ading_phone": "Thêm số điện thoại",
+                "addenough": "Đã thêm đủ số điện thoại!",
+                "ading_phone": "Đang thêm số:",
                 "success": "Thành công",
                 "failed": "Thất bại"
             },
             "function":
             {
-                "no_proxy": "Không có proxy!",
+                "no_proxy": "Không tìm thấy proxy!",
                 "proxy_failed": "Proxy lỗi!",
-                "proxy_format": "Proxy sai",
+                "proxy_format": "Proxy sai định dạng!",
                 "no_connect": "Proxy không thể kết nối với Telegram, vui lòng kiểm tra!",
                 "two_ip": "Tài khoản này được sử dụng dưới hai địa chỉ IP khác nhau cùng một lúc và không thể sử dụng lại.",
                 "ban_account": "Tài khoản đã bị khóa vĩnh viễn! 😭",
-                "database_locked": "Tác vụ trước dừng đột ngột, khởi động lại phần mềm để sửa lỗi!",
+                "database_locked": "Tác vụ trước đó bị dừng đột ngột, khởi động lại phần mềm để sửa lỗi!",
                 "not_file_database": "Không tìm thấy file session!",
                 "login_success": "Đăng nhập thành công",
                 "changer_info": "Thay đổi thông tin",
                 "get_list_id_group": "Lấy danh sách ID nhóm",
                 "scan_member": "Quét thành viên",
                 "join_group": "Tham gia nhóm/kênh",
-                "out_group": "Thoát Nhóm/Kênh",
+                "out_group": "Thoát nhóm/kênh",
                 "Add_Member": "Thêm thành viên",
                 "buff_comment_channel": "Bình luận bài viết trên kênh",
                 "buff_view_channel": "Xem bài viết của kênh",
@@ -786,11 +786,11 @@
                 "crawl_message_channel": "Thu thập nội dung",
                 "Convert_Tdata": "Chuyển đổi Tdata",
                 "Export_all_contact": "Xuất danh bạ",
-                "Remove_all_Contact": "Xóa tất cả liên hệ",
+                "Remove_all_Contact": "Xóa tất cả danh bạ",
                 "forward_message": "Chuyển tiếp tin nhắn",
-                "add_phone_to_contact": "Thêm số điện thoại để liên hệ",
+                "add_phone_to_contact": "Thêm SDT vào danh ",
                 "join_voice_call": "Tham gia cuộc gọi thoại",
-                "login_failed": "Đăng nhập thất bại! 😭"
+                "login_failed": "Lỗi đăng nhập! 😭"
             }
         },
         "setText":
@@ -815,8 +815,8 @@
             "changer_info_2": "Thay đổi thông tin",
             "label_28": "Tổng tài khoản:",
             "label_29": "Đã chọn:",
-            "label_30": "Live",
-            "label_31": "Die",
+            "label_30": "Live:",
+            "label_31": "Die:",
             "radio_changer_avatar": "Thay đổi hình đại diện",
             "radio_delete_avatar": "Xóa hình đại diện",
             "changer_bio": "Thay đổi bio",
@@ -833,19 +833,19 @@
             "open_image": "Chọn Thư mục",
             "open_fullname": "Chọn Thư Mục",
             "open_username_3": "Chọn Thư mục",
-            "open_bio_2": "Tải hình đại diện xuống",
+            "open_bio_2": "Tải xuống",
             "tick_out_all_devcies": "Xóa tất cả thiết bị",
             "tick_changer_private": "Bật chế độ riêng tư cho tài khoản",
             "tick_remove_all_mesage": "Xóa tất cả tin nhắn",
             "btn_stack_add_member": "Thêm thành viên",
             "btn_stack_scan_member": "Quét thành viên",
             "btn_stack_extensions": "Tiện ích nâng cao",
-            "label_3": "Thêm từ số",
-            "label_5": "Tổng số thêm/Tài khoản",
+            "label_3": "Thêm từ STT",
+            "label_5": "Tổng add/Tài khoản",
             "pushButton_23": "Lưu thông tin",
             "pushButton_24": "Nhập dữ liệu",
             "checkBox_10": "Tạo bảng mới",
-            "label_10": "Tổng cộng",
+            "label_10": "Tổng",
             "tick_scan_public": "Quét nhóm công khai",
             "tick_scan_private": "Quét nhóm riêng tư",
             "tick_delete_admin": "Xóa quản trị viên",
@@ -854,21 +854,21 @@
             "btn_scan_id_group": "Quét tất cả ID nhóm",
             "btn_extract_data": "Xuất dữ liệu",
             "radioButton_4": "Rời nhóm và kênh theo liên kết",
-            "radioButton_6": "Thoát khỏi tất cả các nhóm và kênh",
+            "radioButton_6": "Thoát khỏi tất cả nhóm và kênh",
             "open_username_2": "Mở",
-            "radioButton_8": "Bình luận  24/7",
-            "radioButton_7": "Bình luận theo bài đăng",
-            "radioButton_10": "Tăng mắt xem 24/7",
-            "radioButton_9": "Tăng mắt xem theo bài đăng",
+            "radioButton_8": "Tăng bình luận auto 24/7",
+            "radioButton_7": "Tăng bình luận theo bài đăng",
+            "radioButton_10": "Tăng lượt xem auto 24/7",
+            "radioButton_9": "Tăng lượt xem theo bài đăng",
             "checkBox": "Tải xuống Video",
             "checkBox_2": "Tải ảnh",
             "checkBox_3": "Tải văn bản",
             "label_4": "Số lượng tin:",
             "label_12": "Quét từ ngày:",
-            "import_forward": "Nhập người dùng/nhóm",
+            "import_forward": "Nhập dữ ",
             "label_27": "Thêm từ số:",
             "label_20": "Tổng số thêm/tài khoản:",
-            "pushButton_2": "Nhập danh sách số điện thoại",
+            "pushButton_2": "Nhập data SĐT",
             "pushButton_28": "Spam tin nhắn",
             "pushButton_27": "Seeding tương tác nhóm",
             "pushButton_29": "Tạo kịch bản",
@@ -908,33 +908,33 @@
             "text_username_3": "Nhập đường dẫn thư mục để lưu tệp sẽ được tải xuống",
             "plainTextEdit_11": "Nhập từ khóa (một từ khóa trên mỗi dòng)",
             "lineEdit_10": "Nhập liên kết hoặc ID nhóm của bạn",
-            "lineEdit_14": "Nhập liên kết hoặc ID của nhóm bạn muốn quét",
+            "lineEdit_14": "Nhập liên kết hoặc ID của nhóm muốn quét",
             "plainTextEdit": "Danh sách ID",
             "lineEdit_9": "Nhập liên kết nhóm hoặc ID",
             "lineEdit_11": "Nhập tên tập tin",
-            "plainTextEdit_2": "Nhập liên kết kênh hoặc nhóm (một liên kết trên mỗi dòng)",
-            "plainTextEdit_3": "Nhập liên kết kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "plainTextEdit_2": "Nhập liên kết kênh hoặc nhóm (mỗi liên kết/dòng)",
+            "plainTextEdit_3": "Nhập liên kết kênh hoặc nhóm (mỗi liên kết/dòng)",
             "text_username_2": "Đường dẫn tệp thư",
             "plainTextEdit_6": "Liên kết tới kênh hoặc nhóm",
             "plainTextEdit_16": "ID bài đăng",
             "plainTextEdit_4": "Nội dung",
             "lineEdit": "Nhập ID bài đăng",
-            "plainTextEdit_7": "Nhập liên kết cho kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "plainTextEdit_7": "Nhập liên kết cho kênh hoặc nhóm (mỗi liên kết/dòng)",
             "lineEdit_4": "DD/MM/YYYY",
-            "plainTextEdit_8": "Nhập liên kết cho kênh hoặc nhóm (một liên kết trên mỗi dòng)",
+            "plainTextEdit_8": "Nhập liên kết cho kênh hoặc nhóm (một liên kết/dòng)",
             "link_forward": "Nhập liên kết của bài đăng để chuyển tiếp",
-            "list_enti_send": "Danh sách tên người dùng hoặc nhóm (một tên người dùng trên mỗi dòng)",
-            "plainTextEdit_15": "Nhập liên kết nhóm (không hỗ trợ phát trực tiếp bằng truyền phần mềm, chẳng hạn như OBS, XSplit, v.v.)",
+            "list_enti_send": "Danh sách tên người dùng hoặc nhóm (mỗi username/dòng)",
+            "plainTextEdit_15": "Nhập liên kết nhóm (không hỗ trợ phát trực tiếp qua các phần mềm: OBS, XSplit, v.v.)",
             "lineEdit_12": "Số tin nhắn/tài khoản",
             "lineEdit_13": "Số người dùng/tài khoản",
             "lineEdit_15": "Đường dẫn file",
-            "lineEdit_16": "Link nhóm của bạn",
-            "groupcopyEdit": "Link nhóm của đối thủ",
+            "lineEdit_16": "Liên kết nhóm của bạn",
+            "groupcopyEdit": "kết nhóm của đối thủ",
             "offsetDateEdit": "Ngày quét: dd/mm/yyyy",
             "lineEdit_21": "Đường dẫn ảnh",
             "lineEdit_20": "Đường dẫn tệp",
             "plainTextEdit_12": "Nhập nội dung seeding",
-            "lineEdit_22": "Tên kịch bảnn",
+            "lineEdit_22": "Tên kịch bản",
             "plainTextEdit_5": "Nhập proxy tại đây...",
             "plainTextEdit_9": "Proxy live sẽ xuất hiện ở đây",
             "plainTextEdit_10": "Proxy die sẽ xuất hiện ở đây"
@@ -942,13 +942,13 @@
         "comboBoxItem":
         {
             "comboBox_2": {
-                "addUsername": "Add member bằng username",
+                "addUsername": "Add member bằng Username",
                 "addID": "Add member bằng ID",
                 "addPhone": "Add member bằng số điện thoại"
             },
             "option_scan": {
                 "all": "Quét tất cả thành viên",
-                "online": "Online",
+                "online": "Đang trực tuyến",
                 "1d": "1 ngày",
                 "2d": "2 ngày",
                 "3d": "3 ngày",
@@ -957,7 +957,7 @@
                 "30d": "30 ngày"
             },
             "comboBox_4": {
-                "join_group": "Tham gia group và channel",
+                "join_group": "Tham gia nhóm và channel",
                 "out_group": "Thoát group và channel",
                 "buff_comment_channel": "Buff bình luận bài viết channel",
                 "buff_view_channel": "Buff view bài viết channel",
@@ -973,8 +973,8 @@
             },
             "comboBox_3":
             {
-                "spamU": "Spam bằng username",
-                "spamID": "Spam bằng ID",
+                "spamU": "Spam qua username",
+                "spamID": "Spam qua ID",
                 "spamPhone": "Spam bằng số điện thoại"
             }
         },
