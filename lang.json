@@ -1054,7 +1054,7 @@
             "folder_image_empty": "Image folder can not be empty",
             "message_block_sex": "Sensitive keywords are not allowed to be used",
             "warning_not_proxy": "If you agree to use this feature, your account may be permanently locked. Do you still want to continue?",
-            "forever_tool": "Permanent",
+            "forever_tool": "Lifetime",
             "expiration_date": "Expiration date",
             "expiration": "Expired",
             "warning_check_live_proxy": "- No need to check proxy with ip:port:username:password format.\n- Only need to check ip:port proxy.",
