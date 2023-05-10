@@ -641,7 +641,7 @@
         "Telegram_Home":
         {
             "PeerFloodError": "[PEER_FLOOD] Quá nhiều yêu cầu, đã dừng lại!",
-            "FloodWaitError": "Tài khoản [FLOOD_WAIT_XXXX] bị hạn chế",
+            "FloodWaitError": "[FLOOD_WAIT_XXXX] Tài khoản bị hạn chế",
             "ChannelPrivateError": "Kênh được chỉ định là riêng tư và bạn không có quyền truy cập. Một lý do khác có thể là bạn đã bị cấm thao tác kênh đó.",
             "ChatAdminRequiredError": "Việc thực hiện hành động trong cuộc trò chuyện được chỉ định yêu cầu đặc quyền của quản trị viên trò chuyện (ví dụ: gửi tin nhắn trong kênh không phải của bạn) hoặc kênh hoặc nhóm được tạo với quyền không hợp lệ.",
             "ChatInvalidError": "[CHAT_INVALID] Cuộc trò chuyện không hợp lệ cho yêu cầu này.",
@@ -1159,7 +1159,7 @@
         "Telegram_Home":
         {
             "PeerFloodError": "[PEER_FLOOD] Too many requests, stopped!",
-            "FloodWaitError": "Account [FLOOD_WAIT_XXXX] is restricted",
+            "FloodWaitError": "[FLOOD_WAIT_XXXX] Account is restricted",
             "ChannelPrivateError": "The specified channel is private and you do not have access. Another reason may be that you have been banned from using that channel.",
             "ChatAdminRequiredError": "Performing the action in the specified chat requires administrator privileges (e.g. sending messages in a channel that is not yours) or the channel or group was created with invalid permissions.",
             "ChatInvalidError": "[CHAT_INVALID] Invalid chat for this request.",
