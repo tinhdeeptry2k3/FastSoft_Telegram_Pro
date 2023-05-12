@@ -1363,7 +1363,7 @@
             "btn_stack_add_member": "Add member",
             "btn_stack_scan_member": "Scan member",
             "btn_stack_extensions": "Advanced utilities",
-            "label_3": "Add from numerical order",
+            "label_3": "Add from No.",
             "label_5": "Total add/accounts",
             "pushButton_23": "Save information",
             "pushButton_24": "Import data",
@@ -1508,13 +1508,13 @@
         },
         "tableWidget": {
             "add_table": {
-                "0": "Numerical order",
+                "0": "No",
                 "1": "Member",
                 "2": "Name",
                 "3": "Status"
             },
             "table_fillter": {
-                "0": "Numerical order",
+                "0": "No",
                 "1": "ID",
                 "2": "Username",
                 "3": "Name",
@@ -1523,7 +1523,7 @@
                 "6": "Status"
             },
             "table_user": {
-                "0": "Numerical order",
+                "0": "No.",
                 "2": "Member",
                 "3": "Name"
             },
@@ -1543,7 +1543,7 @@
                 "2": "Content"
             },
             "table_fillter_2": {
-                "0": "Numerical order",
+                "0": "No.",
                 "1": "Phone number",
                 "2": "Status"
             }
