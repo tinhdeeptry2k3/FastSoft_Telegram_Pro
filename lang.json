@@ -2,57 +2,57 @@
     "CH":{
         "APP_TELEGRAM":
         {
-            "e_ss_success": "导出会话成功",
+            "e_ss_success": "会话导出成功",
             "e_ss_failed": "会话导出失败",
             "open_app": "正在打开应用程序..."
         },
         "messageBox":
         {
-            "done_msg": "完全的",
-            "tool_expiration": "工具已过期，请联系管理员续订",
-            "phone_empty": "请输入手机号码",
+            "done_msg": "完成",
+            "tool_expiration": "软件已过期，请联系管理员续订",
+            "phone_empty": "不要将电话号码留空",
             "creat_ss_success": "会话文件创建成功",
             "creat_ss_error": "会话文件创建失败",
             "save_success": "保存成功",
-            "folder_image_empty": "图片文件夹不能为空！",
-            "message_block_sex": "请勿使用敏感词汇！",
-            "warning_not_proxy": "如果您同意使用此功能，您的帐户将有永久封禁的风险。您仍要继续吗？",
+            "folder_image_empty": "照片文件夹不能留空！",
+            "message_block_sex": "敏感关键字未使用！",
+            "warning_not_proxy": "如果您同意使用此功能，您的帐户将面临被永远禁止的风险。 你还想继续吗？",
             "forever_tool": "永久",
             "expiration_date": "过期日期",
             "expiration": "过期",
             "warning_check_live_proxy": "- 对于 ip:port:username:password 格式的代理，不需要进行检查。\n- 只有 ip:port 类型的代理才需要进行检查。",
-            "add_member_phone": "使用手机号添加",
-            "add_member_username": "使用用户名添加",
-            "add_member_id": "使用 ID 添加",
-            "status_add_success": "添加成功",
-            "member_multi_group": "很抱歉！由于此人已经在太多的群组中，无法添加！",
-            "member_block_group": "无法添加！该用户已设置不允许添加到群组中！",
-            "member_deleted": "selected指定的用户已被删除。",
+            "add_member_phone": "通过电话号码添加成员",
+            "add_member_username": "通过用户名添加成员",
+            "add_member_id": "通过ID添加成员",
+            "status_add_success": "成功",
+            "member_multi_group": "很抱歉！由于此人已经在太多的群组中，无法添加。",
+            "member_block_group": "无法添加！用户已阻止其他人将他们添加到组中。",
+            "member_deleted": "指定的用户已被删除。",
             "member_blocked": "用户已被屏蔽。",
-            "member_no_contact": "提供的用户不是共同联系人。",
-            "file_empty": "未输入文件名",
+            "member_no_contact": "提供的用户不是概联系人。",
+            "file_empty": "文件名不能为空",
             "join_group": "加入组和频道",
             "out_group": "退出组和频道",
-            "buff_comment_channel": "增加频道帖子的评论",
-            "buff_view_channel": "增加频道帖子的浏览次数",
+            "buff_comment_channel": "增加对频道帖子的评论",
+            "buff_view_channel": "增加观看次数",
             "crawl_message_channel": "抓取群组和频道的内容",
-            "buff_channel_group": "增加频道或群组的情感",
-            "forward_message": "转发信息",
+            "buff_channel_group": "在群组和频道中增加情绪",
+            "forward_message": "转发消息",
             "add_phone_to_contact": "添加手机号到联系人",
             "join_voice_call": "加入语音通话",
             "btn_running": "正在运行...",
             "no_select_account": "未选择帐户",
             "thread_is_number": "线程数必须是数字",
             "time_is_number": "时间最小值和最大值必须是数字",
-            "folder_avatar_empty": "未输入头像文件夹",
-            "folder_bio_empty": "未输入个人简介文件夹",
-            "folder_username_empty": "未输入用户名文件夹",
-            "folder_fullname_empty": "未输入全名文件夹",
-            "link_group_empty": "未输入组链接",
-            "link_group_clone": "未输入克隆组链接",
+            "folder_avatar_empty": "头像文件夹不能为空",
+            "folder_bio_empty": "简介文件夹不能为空",
+            "folder_username_empty": "用户名文件夹不能为空",
+            "folder_fullname_empty": "全名文件夹不能为空",
+            "link_group_empty": "组链接不能为空",
+            "link_group_clone": "对手组链接不能为空",
             "totaladdbiggerzero": "总添加数必须大于 0",
-            "link_group_channel_empty": "未输入组或频道列表",
-            "id_post_empty": "未输入帖子 ID",
+            "link_group_channel_empty": "群组或频道链接不能为空",
+            "id_post_empty": "帖子ID不能为空",
             "id_post_is_number": "帖子 ID 必须是数字",
             "id_group_empty": "群组ID不能为空",
             "content_comment_empty": "评论内容不能为空",
@@ -61,11 +61,11 @@
             "list_phone_empty": "手机号列表不能为空",
             "count_add_contact_bigger": "联系人添加数量必须大于0",
             "script_empty": "脚本不能为空",
-            "user_spam_empty": "垃圾信息用户信息不能为空",
+            "user_spam_empty": "垃圾花名册不能为空",
             "Count_Mess_In_Group": "账户内的短信数量不能为空",
-            "Count_Group_In_Account": "账户内的群组数量不能为空",
+            "Count_Group_In_Account": "账户内的短信数量不能为空",
             "icon_empty": "图标不能为空",
-            "copy_done": "複製到緩衝區成功"
+            "copy_done": "复制成功"
         },
         "contextMenu":
         {
@@ -80,30 +80,30 @@
             "unselect": "取消选择全部",
             "check_live": "检查活跃状态/账号信息",
             "check_spam": "检查垃圾信息",
-            "move_account": "移动账号",
+            "move_account": "迁移账户",
             "Remove": "删除帐号",
             "remove_select": "从文件夹中删除选中账号",
-            "remove_local": "从本地计算机中删除账号⚠",
+            "remove_local": "从计算机中删除账号⚠",
             "get_code": "獲取登錄碼",
             "Convert_Tdata": "导出Tdata文件",
             "Open_App_Telegram": "打开Telegram应用",
             "Kill_App_Telegram": "关闭所有Telegram应用 ⚠",
             "Export_all_contact": "导出联系人",
-            "Export_session": "导出session文件",
+            "Export_session": "导出会话文件",
             "Export_username": "导出用户名",
             "Export_phone": "导出电话号码",
             "Export_id": "导出ID",
             "Remove_all_Contact": "删除所有联系人",
-            "creatNewSession": "重新创建session",
-            "change_path": "更改session文件夹路径",
+            "creatNewSession": "重新创建文件",
+            "change_path": "更改会话文件夹路径",
             "chonProxyDie": "选择失效代理",
             "addProxy": "添加代理",
             "delProxy": "删除代理",
             "CopyProxy": "导出已选择代理",
-            "SSSS": "選項 session",
+            "SSSS": "可选会话",
             "add_password": "添加密碼 2FA",
-            "Proxy": "選項 Proxy",
-            "App Telegram": "App Telegram",
+            "Proxy": "代理选项",
+            "App Telegram": "Telegram 应用",
             "Export": "導出賬戶數據",
             "CopyDanhBa": "复制同步的电话号码"        
         },
@@ -115,9 +115,9 @@
             "account_not_limit": "账号未被限制！👍",
             "copy_success": "复制成功",
             "proxy_not_connect": "代理无法连接到Telegram，请检查！",
-            "account_new": "账号未满3天注册！",
-            "live": "活跃: ",
-            "die": "失效: "
+            "account_new": "账号注册不足3天！",
+            "live": "Live: ",
+            "die": "Die: "
         },
         "Telegram_Home":
         {
@@ -132,18 +132,18 @@
             "UserBlockedError": "该用户已被阻止。",
             "UserChannelsTooMuchError": "对不起！ 无法添加此用户，因为他们已经在太多的群组中！",
             "UserKickedError": "该用户已从此超级组/频道中删除。",
-            "UserPrivacyRestrictedError": "无法添加！ 此用户已设置不允许添加到群组！",
+            "UserPrivacyRestrictedError": "无法添加！ 此用户阻止其他人将他们添加到该组！",
             "UserNotMutualContactError": "提供的用户不是共同联系人。",
-            "ChannelsTooMuchError": "您加入了太多頻道/超級群組。",
+            "ChannelsTooMuchError": "您加入了多个频道/超级群组。",
 
 
             "Done": "完成",
             "End_Data": "数据结束",
             "JoinVoice": {
-            "joining_call": "正在加入通话..."
+            "joining_call": "加入语音通话..."
             },
             "Forward_Post": {
-                "forward": "转发",
+                "forward": "过渡",
                 "success": "成功",
                 "failed": "失败"
             },
@@ -159,10 +159,10 @@
             "Convert_Tdata": {
                 "converting": "正在转换...",
                 "convert_success": "成功转换 Tdata！",
-                "convert_failed": "转换 Tdata 失败！"
+                "convert_failed": "无法转换 Tdata！"
             },
             "Get_Code": {
-                "not_code": "未找到验证码，请重新查找..."
+                "not_code": "没有找到验证码，正在重新搜索..."
             },
             "Crawl_Message": {
                 "processing_crawl_message": "正在爬取消息",
@@ -176,12 +176,12 @@
                 "current_session": "未找到信息或会话已过期！"
             },
             "Buff_View": {
-                "view_success": "成功浏览",
-                "checking": "正在检查..."
+                "view_success": "成功增加观看次数",
+                "checking": "正在搜索帖子..."
             },
             "Comment_Channel": {
-                "comment_success": "成功评论内容",
-                "checking": "正在检查..."
+                "comment_success": "提高评论成功率",
+                "checking": "正在搜索帖子..."
             },
             "Add_Member": {
                 "not_group": "未找到群组",
@@ -191,7 +191,7 @@
                 "success": "成功",
                 "failed": "失败",
                 "not_scanid": "无法扫描此 ID！",
-                "add_total": "成功添加成员数",
+                "add_total": "成功添加数",
                 "member": "成员",
                 "current_session": "未找到信息或会话已过期！"
             },
@@ -209,7 +209,7 @@
                 "searching": "正在查找..."
             },
             "fillter_member": {
-                "scanning": "正在扫描群组..."
+                "scanning": "正在会员扫描中..."
             },
             "changer_info": {
                 "success": "成功",
@@ -222,19 +222,19 @@
                 "changer_username": "更改用户名",
                 "delete_username": "删除用户名",
                 "changer_fullname": "更改全名",
-                "changer_2fa": "更改两步验证密码",
+                "changer_2fa": "更改 2FA 密码",
                 "current_pad": "旧密码不正确！",
                 "out_devies": "退出所有设备",
-                "changer_private": "更改隐私设置"
+                "changer_private": "更改保密设置 "
             },
             "check_spam": {
                 "checking": "正在检查垃圾邮件...>",
-                "no_limit": "账户没有被限制！👍",
+                "no_limit": "出神入化, 账户没有被限制！👍",
                 "reg_new": "账户注册未满3天！",
                 "limit": "账户已被限制，请稍后再试！😭"
             },
             "check_live":{
-                "yes": "是",
+                "yes": "有",
                 "no": "没有"
             },
             "add_phone_to_session":
@@ -249,14 +249,14 @@
                 "no_proxy": "未找到代理！",
                 "proxy_failed": "代理错误！",
                 "proxy_format": "代理格式错误",
-                "no_connect": "代理无法连接到 Telegram，请检查！",
+                "no_connect": "代理无法连接到 Telegram，请重新检查！",
                 "two_ip": "此帐户同时在两个不同的IP地址下使用，无法再使用。",
                 "ban_account": "帐户已永久封锁！😭",
                 "database_locked": "先前的任务突然停止，重新启动软件以修复错误！",
                 "not_file_database": "找不到会话文件！",
                 "login_success": "登录成功",
                 "changer_info": "更改信息",
-                "get_list_id_group": "获取群组ID列表",
+                "get_list_id_group": "获取组 ID 列表",
                 "scan_member": "扫描成员",
                 "join_group": "加入群组/频道",
                 "out_group": "退出群组/频道",
@@ -271,7 +271,7 @@
                 "forward_message": "转发消息",
                 "add_phone_to_contact": "添加电话号码到联系人",
                 "join_voice_call": "加入语音通话",
-                "login_failed": "登录失败！😭"
+                "login_failed": "登录错误！😭"
             }
         },
         "setText":
@@ -289,19 +289,19 @@
             "label_38": "全部的",
             "label_39": "Live",
             "label_40": "Die",
-            "btn_running":"跑步...",
+            "btn_running":"加载中...",
             "start_thread_btn": "开始",
             "stop_thread_btn": "结束",
-            "import_account": "导入账户",
+            "import_account": "输入帐户",
             "changer_info_2": "更改信息",
             "label_28": "总帐户：",
             "label_29": "已选：",
-            "label_30": "在线：",
-            "label_31": "离线：",
+            "label_30": "Live：",
+            "label_31": "Die：",
             "radio_changer_avatar": "更改头像",
             "radio_delete_avatar": "删除头像",
-            "changer_bio": "更改简介",
-            "remove_bio": "删除简介",
+            "changer_bio": "更改个人简介",
+            "remove_bio": "删除个人简介",
             "change_username": "更改用户名",
             "delete_username": "删除用户名",
             "change_username_3": "更改帐户名称",
@@ -314,14 +314,14 @@
             "open_image": "选择文件夹",
             "open_fullname": "选择文件夹",
             "open_username_3": "选择文件夹",
-            "open_bio_2": "下载头像",
-            "tick_out_all_devcies": "注销所有设备",
+            "open_bio_2": "下载",
+            "tick_out_all_devcies": "裁撤掉所有设备",
             "tick_changer_private": "为帐户启用隐私模式",
             "tick_remove_all_mesage": "删除所有消息",
             "btn_stack_add_member": "添加成员",
             "btn_stack_scan_member": "扫描成员",
             "btn_stack_extensions": "高级扩展",
-            "label_3": "从编号添加",
+            "label_3": "添加单词序号",
             "label_5": "总添加/帐户",
             "pushButton_23": "保存信息",
             "pushButton_24": "导入数据",
@@ -337,25 +337,25 @@
             "radioButton_4": "根据链接退出组和频道",
             "radioButton_6": "退出所有组和频道",
             "open_username_2": "打开",
-            "radioButton_8": "24/7挂起评论",
-            "radioButton_7": "按帖子填充评论",
-            "radioButton_10": "24/7增加视图",
-            "radioButton_9": "按帖子增加视图",
+            "radioButton_8": "24/7 自动增加评论",
+            "radioButton_7": "通过帖子增加评论",
+            "radioButton_10": "24/7 自动增加观看次数",
+            "radioButton_9": "增加帖子浏览量",
             "checkBox": "下载视频",
             "checkBox_2": "下载图片",
             "checkBox_3": "下载文本",
-            "label_4": "信息数量：",
-            "label_12": "从以下日期扫描：",
-            "import_forward": "导入用户名/组",
+            "label_4": "消息数量：",
+            "label_12": "扫描日期：",
+            "import_forward": "插入信息",
             "label_27": "从编号添加：",
-            "label_20": "每个帐户的总添加数：",
+            "label_20": "总添加/帐户：",
             "pushButton_2": "输入电话号码列表",
             "pushButton_28": "发送垃圾短信",
             "pushButton_27": "播种互动群",
             "pushButton_29": "创建脚本",
             "checkBox_15": "随机消息",
             "checkBox_16": "复制消息",
-            "pushButton_30": "添加用户/电话号码",
+            "pushButton_30": "输入用户/ID/电话号码列表",
             "pushButton_31": "添加脚本",
             "pushButton_33": "打开",
             "checkBox_17": "随机回复",
@@ -367,54 +367,54 @@
             "pushButton_35": "打开",
             "pushButton_40": "删除",
             "pushButton_38": "添加",
-            "pushButton_36": "保存",
-            "btn_setting_proxy": "设置代理",
+            "pushButton_36": "留",
+            "btn_setting_proxy": "代理设置",
             "save_proxy_2": "输入代理",
-            "save_proxy": "保存",
-            "start_thread_btn_3": "检查存活状态",
+            "save_proxy": "留",
+            "start_thread_btn_3": "检查运行状态",
             "useProxy": "是否使用代理运行?",
             "proxyTable": "固定代理"
         },
         "setPlaceholder": 
         {
             "count_thread_line": "线程数",
-            "time_delay_min": "最小时间",
-            "time_delay_max": "最大时间",
+            "time_delay_min": "最小延迟",
+            "time_delay_max": "最大延迟",
             "searchEdit": "搜索",
             "edit_2fa": "在此处输入新的2FA",
             "text_username": "添加username.txt文件路径",
             "text_bio": "添加BIO.txt文件路径",
             "text_image": "添加图片目录路径",
             "text_fullname": "添加名称目录路径",
-            "text_username_3": "输入要下载的文件保存目录路径",
+            "text_username_3": "输入保存文件夹路径",
             "plainTextEdit_11": "输入关键词(每行一个关键词)",
-            "lineEdit_10": "输入您的群组链接或ID",
-            "lineEdit_14":"输入您要扫描的群组链接或ID",
-            "plainTextEdit": "ID列表",
-            "lineEdit_9": "输入群组链接或ID",
-            "lineEdit_11": "输入文件名",
+            "lineEdit_10": "输入您的链接/组 ID",
+            "lineEdit_14":"输入您要扫描的组的链接/ID",
+            "plainTextEdit": "ID 列表将显示在此处",
+            "lineEdit_9": "要扫描的链接/组 ID",
+            "lineEdit_11": "命名文件",
             "plainTextEdit_2": "输入频道或组链接(每行一个链接)",
             "plainTextEdit_3": "输入频道或组链接(每行一个链接)",
-            "text_username_2": "消息文件路径",
+            "text_username_2": "注释文件路径可用",
             "plainTextEdit_6": "链接到频道或组",
             "plainTextEdit_16": "帖子ID",
             "plainTextEdit_4": "内容",
             "lineEdit": "输入帖子ID",
-            "plainTextEdit_7": "輸入頻道或群組的鏈接（每行一個鏈接）",
+            "plainTextEdit_7": "输入频道或组链接(每行一个链接)",
             "lineEdit_4": "DD/MM/YYYY",
-            "plainTextEdit_8": "輸入頻道或群組的鏈接（每行一個鏈接）",
-            "link_forward": "輸入要轉發的帖子鏈接",
+            "plainTextEdit_8": "输入频道或组链接(每行一个链接)",
+            "link_forward": "输入帖子链接转发",
             "list_enti_send": "用戶名或用戶組列表（每行一個用戶名）",
             "plainTextEdit_15": "輸入群組鏈接（不支持使用軟件傳輸，如 OBS、XSplit 等進行直播）",
             "lineEdit_12": "消息/帳戶數量",
             "lineEdit_13": "用戶/帳戶數量",
             "lineEdit_15": "文件路徑",
             "lineEdit_16": "你的群組鏈接",
-            "groupcopyEdit": "競爭對手的群組鏈接",
+            "groupcopyEdit": "需要扫描的群组链接",
             "offsetDateEdit": "掃描日期：dd/mm/yyyy",
             "lineEdit_21": "圖片路徑",
             "lineEdit_20": "文件路徑",
-            "plainTextEdit_12": "輸入種子內容",
+            "plainTextEdit_12": "输入播种内容",
             "lineEdit_22": "腳本名稱",
             "plainTextEdit_5": "在此輸入代理...",
             "plainTextEdit_9": "活著的代理將出現在此處",
@@ -442,21 +442,21 @@
                 "out_group": "退出群组和频道",
                 "buff_comment_channel": "增加频道文章评论量",
                 "buff_view_channel":"增加频道文章观看量",
-                "buff_react_channel":"频道或群体情感增益",
+                "buff_react_channel":"增加频道或群体的情绪",
                 "crawl_message_channel": "抓取组和频道的内容",
                 "forward_message": "转发消息",
                 "add_phone_to_contact":"将电话号码添加到联系人",
                 "join_voice_call":"加入语音通话"
             },
             "comboBox": {
-                "seedingScript": "按剧本播种",
-                "seedingOnline": "实时播种"
+                "seedingScript": "播种根据剧本",
+                "seedingOnline": "24/7实时播种"
             },
             "comboBox_3":
             {
-                "spamU": "带有用户名的垃圾邮件",
-                "spamID": "垃圾邮件 ID",
-                "spamPhone": "垃圾电话号码"
+                "spamU": "通过用户名发送垃圾邮件",
+                "spamID": "通过 ID 发送垃圾邮件",
+                "spamPhone": "通过电话号码发送垃圾邮件"
             }
         },
         "groupBox":
@@ -518,6 +518,9 @@
             }
         }
     },
+
+
+
     "VI":{
         "APP_TELEGRAM":
         {
@@ -710,8 +713,8 @@
                 "success": "Thành công",
                 "failed": "Thất bại",
                 "not_scanid": "Không thể quét ID này!",
-                "add_total": "Đã thêm thành công",
-                "member": "Thành viên",
+                "add_total": "Thêm thành công",
+                "member": "thành viên",
                 "current_session": "Không tìm thấy thông tin hoặc session đã cũ!"
             },
             "Out_Group": {
@@ -1037,11 +1040,14 @@
             }
         }
     },
+
+
+
     "EN": {
         "APP_TELEGRAM":
         {
             "e_ss_success": "Export session success",
-            "e_ss_failed": "Export session failed",
+            "e_ss_failed": "Export session fail",
             "open_app": "Opening APP..."
         },
         "messageBox": {
@@ -1049,7 +1055,7 @@
             "tool_expiration": "The software has expired, please contact the administrator to renew",
             "phone_empty": "Phone number can not be empty",
             "creat_ss_success": "Session created successfully",
-            "creat_ss_error": "Failed to create session",
+            "creat_ss_error": "Session created failed",
             "save_success": "Saved successfully",
             "folder_image_empty": "Image folder can not be empty",
             "message_block_sex": "Sensitive keywords are not allowed to be used",
@@ -1063,17 +1069,17 @@
             "add_member_id": "Add member by ID",
             "status_add_success": "Success",
             "member_multi_group": "Sorry! Unable to add this person as they are already in too many groups!",
-            "member_block_group": "Unable to add! User has been set to not be added to the group!",
+            "member_block_group": "Unable to add! The user has blocked others from adding them to the group!",
             "member_deleted": "The designated user has been deleted.",
             "member_blocked": "The user has been blocked.",
             "member_no_contact": "The provided user is not a mutual contact.",
             "file_empty": "File name cannot be empty.",
             "join_group": "Join group and channel",
             "out_group": "Leave group and channel",
-            "buff_comment_channel": "Comment on post group/channel",
-            "buff_view_channel": "Increase views on post group/channel",
-            "crawl_message_channel": "Scrape content of group/channel",
-            "buff_channel_group": "Increase reactions on post group/channel",
+            "buff_comment_channel": "Buff comment on post group/channel",
+            "buff_view_channel": "Buff views on post group/channel",
+            "crawl_message_channel": "Crawl content of group/channel",
+            "buff_channel_group": "Buff reactions on post group/channel",
             "forward_message": "Forward message",
             "add_phone_to_contact": "Add phone number to contact",
             "join_voice_call": "Join voice call",
@@ -1098,9 +1104,9 @@
             "list_phone_empty": "Phone number list cannot be empty",
             "count_add_contact_bigger": "The number of adds must be greater than 0",
             "script_empty": "Script list cannot be empty",
-            "user_spam_empty": "Spam user list cannot be empty",
-            "Count_Mess_In_Group": "Message count cannot be empty",
-            "Count_Group_In_Account": "Group count cannot be empty",
+            "user_spam_empty": "Spam list cannot be empty",
+            "Count_Mess_In_Group": "News count cannot be emty",
+            "Count_Group_In_Account": "News count cannot be emty",
             "icon_empty": "Icon cannot be empty",
             "copy_done": "Copy successful"
         
@@ -1120,7 +1126,7 @@
             "check_spam": "Check spam",
             "move_account": "Move account",
             "Remove": "Delete account",
-            "remove_select": "Remove from folder",
+            "remove_select": "Remove from tool folder",
             "remove_local": "Remove from computer ⚠",
             "get_code": "Get login code",
             "Convert_Tdata": "Export Tdata file",
@@ -1133,8 +1139,8 @@
             "Export_id": "Export ID",
             "Remove_all_Contact": "Delete all contacts",
             "creatNewSession": "Recreate session file",
-            "change_path": "Change session folder path",
-            "chonProxyDie": "Select dead proxies",
+            "change_path": "Change session folder link",
+            "chonProxyDie": "Select die proxy",
             "addProxy": "Add Proxy",
             "delProxy": "Delete Proxy",
             "CopyProxy": "Export selected proxy",
@@ -1149,7 +1155,7 @@
         {
             "folder_exists": "Folder already exists",
             "account_limit": "Account is limited, please try again later! 😭",
-            "account_not_limit": "Account is not limited! 👍",
+            "account_not_limit": "Good! Account is not limited! 👍",
             "copy_success": "Copy successful",
             "proxy_not_connect": "Proxy cannot connect to Telegram, please check!",
             "account_new": "New account has not reached 3 days!",
@@ -1169,7 +1175,7 @@
             "UserBlockedError": "The user has been blocked.",
             "UserChannelsTooMuchError": "Sorry! Cannot add this user because they are already in too many groups!",
             "UserKickedError": "The user has been removed from this supergroup/channel.",
-            "UserPrivacyRestrictedError": "Cannot add! This user has been set up to not be added to groups!",
+            "UserPrivacyRestrictedError": "Cannot add! User has been set up to not be added to groups!",
             "UserNotMutualContactError": "The provided user is not a mutual contact.",
             "ChannelsTooMuchError": "You have joined too many channels/supergroups.",
             "Done": "Done",
@@ -1201,55 +1207,55 @@
                 "not_code": "Verification code not found, searching again..."
             },
             "Crawl_Message": {
-                "processing_crawl_message": "Crawling messages",
-                "processing_crawl_video": "Downloading videos",
-                "processing_crawl_image": "Downloading images"
+                "processing_crawl_message": "Crawling message",
+                "processing_crawl_video": "Downloading video",
+                "processing_crawl_image": "Downloading image"
             },
             "Spam": {
                 "sending": "Sending message to",
-                "send_success": "Message sent to user successfully",
+                "send_success": "Send message to user successfully",
                 "send_total": "Total successful sends",
-                "current_session": "No information found or session expired!"
+                "current_session": "Information not found or session expired!"
             },
             "Buff_View": {
                 "view_success": "Successfully increase view count",
-                "checking": "Checking..."
+                "checking": "Searching..."
             },
             "Comment_Channel": {
-                "comment_success": "Comment successfully",
-                "checking": "Checking..."
+                "comment_success": "Successfully increase comment",
+                "checking": "Searching..."
             },
             "Add_Member": {
                 "not_group": "Group not found",
-                "processing_adding": "Adding members...",
+                "processing_adding": "Adding member...",
                 "adding": "Adding:",
-                "addenough": "Added enough members!",
+                "addenough": "Added enough member!",
                 "success": "Success",
                 "failed": "Failed",
                 "not_scanid": "Could not scan this ID!",
-                "add_total": "Number of members added successfully",
+                "add_total": "Successfully added",
                 "member": "Member",
                 "current_session": "Information not found or session expired!"
             },
             "Out_Group": {
-                "out": "Leave",
+                "out": "Exit",
                 "success": "Success",
-                "failed": "Failed"
+                "failed": "Fail"
             },
             "Join_Group": {
                 "join": "Join group",
                 "success": "Success",
-                "failed": "Failed"
+                "failed": "Fail"
             },
             "get_list_id_group": {
                 "searching": "Searching..."
             },
             "fillter_member": {
-                "scanning": "Scanning group..."
+                "scanning": "Scanning members..."
             },
             "changer_info": {
                 "success": "Success",
-                "failed": "Failed",
+                "failed": "Fail",
                 "changer_avatar": "Change avatar",
                 "delete_avatar": "Delete avatar",
                 "no_avatar": "Avatar not found",
@@ -1266,7 +1272,7 @@
             "check_spam": {
                 "checking": "Checking spam...",
                 "no_limit": "Account is not limited! 👍",
-                "reg_new": "Account is newly registered and hasn't reached 3 days yet!",
+                "reg_new": "New account has not reached 3 days!",
                 "limit": "Account is limited, please try again later! 😭"
             },
             "check_live": {
@@ -1276,13 +1282,13 @@
             "add_phone_to_session":
             {
                 "addenough": "Phone numbers added successfully",
-                "ading_phone": "Add phone number",
+                "ading_phone": "Adding phone number",
                 "success": "Success",
-                "failed": "Failed"
+                "failed": "Fail"
             },
             "function":
             {
-                "no_proxy": "No proxy!",
+                "no_proxy": "Proxy not found!",
                 "proxy_failed": "Proxy error!",
                 "proxy_format": "Incorrect proxy format",
                 "no_connect": "Proxy cannot connect to Telegram, please check!",
@@ -1293,7 +1299,7 @@
                 "login_success": "Login successful",
                 "changer_info": "Change information",
                 "get_list_id_group": "Get list of group IDs",
-                "scan_member": "Scan members",
+                "scan_member": "Scan member",
                 "join_group": "Join group/channel",
                 "out_group": "Exit group/channel",
                 "Add_Member": "Add member",
@@ -1307,7 +1313,7 @@
                 "forward_message": "Forward message",
                 "add_phone_to_contact": "Add phone number to contacts",
                 "join_voice_call": "Join voice call",
-                "login_failed": "Login failed! 😭"
+                "login_failed": "Login error! 😭"
             }
         },
         "setText":
@@ -1345,53 +1351,53 @@
             "tick_2fa_3": "Account name",
             "tick_2fa": "2FA password",
             "auth_2fa_new": "New 2FA",
-            "open_username": "Choose File",
-            "open_bio": "Choose File",
-            "open_image": "Choose Folder",
-            "open_fullname": "Choose Folder",
-            "open_username_3": "Choose Folder",
-            "open_bio_2": "Download avatar",
+            "open_username": "Choose file",
+            "open_bio": "Choose file",
+            "open_image": "Choose folder",
+            "open_fullname": "Choose folder",
+            "open_username_3": "Choose folder",
+            "open_bio_2": "Download",
             "tick_out_all_devcies": "Delete all devices",
-            "tick_changer_private": "Enable private mode for account",
+            "tick_changer_private": "Open private mode for account",
             "tick_remove_all_mesage": "Delete all messages",
             "btn_stack_add_member": "Add member",
             "btn_stack_scan_member": "Scan member",
             "btn_stack_extensions": "Advanced utilities",
-            "label_3": "Add from number",
-            "label_5": "Total added/accounts",
+            "label_3": "Add from numerical order",
+            "label_5": "Total add/accounts",
             "pushButton_23": "Save information",
             "pushButton_24": "Import data",
             "checkBox_10": "Create new table",
             "label_10": "Total",
             "tick_scan_public": "Scan public group",
-            "tick_scan_private": "Scan private groups",
+            "tick_scan_private": "Scan private group",
             "tick_delete_admin": "Delete admin",
             "tick_scan_vietnam": "Vietnam",
-            "tick_scan_avatar": "Has profile picture",
+            "tick_scan_avatar": "Have avatar",
             "btn_scan_id_group": "Scan all group IDs",
             "btn_extract_data": "Export data",
             "radioButton_4": "Leave groups and channels by link",
             "radioButton_6": "Exit all groups and channels",
             "open_username_2": "Open",
-            "radioButton_8": "Comment 24/7",
-            "radioButton_7": "Comment on posts",
-            "radioButton_10": "Increase views 24/7",
+            "radioButton_8": "Increase auto comment 24/7",
+            "radioButton_7": "Increase comment on posts",
+            "radioButton_10": "Increase auto views 24/7",
             "radioButton_9": "Increase views on posts",
             "checkBox": "Download video",
             "checkBox_2": "Download image",
             "checkBox_3": "Download text",
             "label_4": "Number of posts:",
             "label_12": "Scan from date:",
-            "import_forward": "Import users/groups",
+            "import_forward": "Import data",
             "label_27": "Add from number:",
-            "label_20": "Total added/accounts:",
+            "label_20": "Total add/accounts:",
             "pushButton_2": "Import phone number list",
             "pushButton_28": "Spam messages",
             "pushButton_27": "Seeding group interactions",
             "pushButton_29": "Create script",
             "checkBox_15": "Random messages",
             "checkBox_16": "Duplicate messages",
-            "pushButton_30": "Add data",
+            "pushButton_30": "Add list User/ID/Phone number",
             "pushButton_31": "Add script",
             "pushButton_33": "Open",
             "checkBox_17": "Random reply",
@@ -1404,12 +1410,12 @@
             "pushButton_40": "Delete",
             "pushButton_38": "Add",
             "pushButton_36": "Save",
-            "btn_setting_proxy": "Set Proxy",
-            "save_proxy_2": "Enter Proxy",
+            "btn_setting_proxy": "Set up Proxy",
+            "save_proxy_2": "Import Proxy",
             "save_proxy": "Save",
             "start_thread_btn_3": "Check live",
             "useProxy": "Run without using Proxy?",
-            "proxyTable": "Fixed Proxies"
+            "proxyTable": "Fixed Proxy"
         },
         "setPlaceholder":
         {
@@ -1418,43 +1424,43 @@
             "time_delay_max": "Max delay",
             "searchEdit": "Search",
             "edit_2fa": "Enter new 2FA here",
-            "text_username": "Add path to username.txt file",
-            "text_bio": "Add path to BIO.txt file",
-            "text_image": "Add path to image folder",
-            "text_fullname": "Add path to full name folder",
-            "text_username_3": "Enter folder path to save downloaded file",
+            "text_username": "Add username.txt file link",
+            "text_bio": "Add BIO.txt file link",
+            "text_image": "Add image folder link",
+            "text_fullname": "Add folder link name",
+            "text_username_3": "Add saved folder link",
             "plainTextEdit_11": "Enter keywords (one keyword per line)",
             "lineEdit_10": "Enter your group link or ID",
             "lineEdit_14": "Enter the group link or ID you want to scan",
-            "plainTextEdit": "ID List",
-            "lineEdit_9": "Enter the group link or ID",
+            "plainTextEdit": "ID list here",
+            "lineEdit_9": "Group link or ID need to scan",
             "lineEdit_11": "Enter file name",
             "plainTextEdit_2": "Enter channel or group links (one link per line)",
             "plainTextEdit_3": "Enter channel or group links (one link per line)",
-            "text_username_2": "Path to folder file",
+            "text_username_2": "Link to folder file",
             "plainTextEdit_6": "Link to channel or group",
             "plainTextEdit_16": "Post ID",
             "plainTextEdit_4": "Content",
             "lineEdit": "Enter post ID",
-            "plainTextEdit_7": "Enter links for channel or group (one link per line)",
+            "plainTextEdit_7": "Enter channel or group links (one link per line)",
             "lineEdit_4": "DD/MM/YYYY",
-            "plainTextEdit_8": "Enter links for channel or group (one link per line)",
+            "plainTextEdit_8": "Enter channel or group links (one link per line)",
             "link_forward": "Enter the post link to forward",
             "list_enti_send": "List of usernames or groups (one username per line)",
             "plainTextEdit_15": "Enter group link (not supported for direct streaming via software such as OBS, XSplit, etc.)",
             "lineEdit_12": "Number of messages/accounts",
             "lineEdit_13": "Number of users/accounts",
-            "lineEdit_15": "File path",
+            "lineEdit_15": "File link",
             "lineEdit_16": "Your group link",
-            "groupcopyEdit": "Opponent's group link",
+            "groupcopyEdit": "Group link need to scan",
             "offsetDateEdit": "Scanning date: dd/mm/yyyy",
-            "lineEdit_21": "Image path",
-            "lineEdit_20": "File path",
+            "lineEdit_21": "Image link",
+            "lineEdit_20": "File link",
             "plainTextEdit_12": "Enter seeding content",
             "lineEdit_22": "Script name",
             "plainTextEdit_5": "Enter proxy here...",
-            "plainTextEdit_9": "Live proxies will appear here",
-            "plainTextEdit_10": "Dead proxies will appear here"
+            "plainTextEdit_9": "Live proxy here",
+            "plainTextEdit_10": "Die proxy here"
         },
         "comboBoxItem": {
             "comboBox_2": {
@@ -1485,7 +1491,7 @@
             },
             "comboBox": {
                 "seedingScript": "Seeding by script",
-                "seedingOnline": "Real-time seeding"
+                "seedingOnline": "Real-time seeding 24/7"
             },
             "comboBox_3": {
                 "spamU": "Spam by username",
@@ -1494,32 +1500,32 @@
             }
         },
         "groupBox": {
-            "groupBox": "Choose username path",
-            "groupBox_2": "Choose bio path",
-            "groupBox_3": "Choose image path",
-            "groupBox_4": "Choose name path",
+            "groupBox": "Choose username link",
+            "groupBox_2": "Choose bio link",
+            "groupBox_3": "Choose image link",
+            "groupBox_4": "Choose name link",
             "groupBox_5": "Auto capture avatar"
         },
         "tableWidget": {
             "add_table": {
-                "0": "No",
+                "0": "Numerical order",
                 "1": "Member",
                 "2": "Name",
                 "3": "Status"
             },
             "table_fillter": {
-                "0": "No",
+                "0": "Numerical order",
                 "1": "ID",
                 "2": "Username",
                 "3": "Name",
                 "4": "Last name",
-                "5": "Profile picture",
+                "5": "Avatar",
                 "6": "Status"
             },
             "table_user": {
-                "0": "No",
+                "0": "Numerical order",
                 "2": "Member",
-                "3": "Fullname"
+                "3": "Name"
             },
             "tableWidget_4": {
                 "0": "Image",
@@ -1537,7 +1543,7 @@
                 "2": "Content"
             },
             "table_fillter_2": {
-                "0": "No",
+                "0": "Numerical order",
                 "1": "Phone number",
                 "2": "Status"
             }
