@@ -137,7 +137,7 @@
             "ChannelsTooMuchError": "您加入了多个频道/超级群组。",
 
 
-            "Done": "完成",
+            "Done": "完成!",
             "End_Data": "数据结束",
             "JoinVoice": {
             "joining_call": "加入语音通话..."
@@ -659,7 +659,7 @@
             "ChannelsTooMuchError": "Bạn đã tham gia quá nhiều kênh/siêu nhóm.",
 
 
-            "Done": "Hoàn thành",
+            "Done": "Hoàn thành!",
             "End_Data": "Hết dữ liệu",
             "JoinVoice": {
             "joining_call": "Đang tham gia voice..."
@@ -1178,7 +1178,7 @@
             "UserPrivacyRestrictedError": "Cannot add! User has been set up to not be added to groups!",
             "UserNotMutualContactError": "The provided user is not a mutual contact.",
             "ChannelsTooMuchError": "You have joined too many channels/supergroups.",
-            "Done": "Done",
+            "Done": "Done!",
             "End_Data": "End of data",
 
             "JoinVoice": {
