@@ -139,6 +139,11 @@
 
             "Done": "完成!",
             "End_Data": "数据结束",
+            "Buff_Reaction":
+            {
+                "send_success": "提交成功",
+                "checking": "登记入住"
+            },
             "JoinVoice": {
             "joining_call": "加入语音通话..."
             },
@@ -689,6 +694,11 @@
 
             "Done": "Hoàn thành!",
             "End_Data": "Hết dữ liệu",
+            "Buff_Reaction":
+            {
+                "send_success": "Gửi thành công: ",
+                "checking": "Đang kiểm tra..."
+            },
             "JoinVoice": {
             "joining_call": "Đang tham gia voice..."
             },
@@ -1236,7 +1246,11 @@
             "ChannelsTooMuchError": "You have joined too many channels/supergroups.",
             "Done": "Done!",
             "End_Data": "End of data",
-
+            "Buff_Reaction":
+            {
+                "send_success": "Send success icon: ",
+                "checking": "Checking..."
+            },
             "JoinVoice": {
                 "joining_call": "Joining voice call..."
             },
