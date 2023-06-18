@@ -276,6 +276,11 @@
         },
         "setText":
         {
+            "radioButton_13": "情感爱好者关注文章链接",
+            "radioButton_14": "情感增益频道 24/7",
+            "pushButton_4": "更多的",
+            "sendMulti": "发送多个脚本",
+            "sendRandom": "随机发送",
             "spamALL": "全部",
             "spamPHONE":"电话",
             "spamUID": "UID",
@@ -813,6 +818,11 @@
         },
         "setText":
         {
+            "radioButton_13": "Buff cảm xúc theo link bài viết",
+            "radioButton_14": "Buff cảm xúc theo channel 24/",
+            "pushButton_4": "Thêm",
+            "sendMulti": "Gửi nhiều kịch bản",
+            "sendRandom": "Gửi ngẫu nhiên",
             "spamALL": "Tất cả",
             "spamPHONE":"Phone",
             "spamUID": "UID",
@@ -1348,6 +1358,11 @@
         },
         "setText":
         {
+            "radioButton_13": "Buff reaction with link post",
+            "radioButton_14": "Buff reaction with channel 24/7",
+            "pushButton_4": "Add",
+            "sendMulti": "Send multi scripts",
+            "sendRandom": "Send random scripts",
             "spamALL": "All",
             "spamPHONE":"Phone",
             "spamUID": "UID",
