@@ -469,12 +469,13 @@
         },
         "tableWidget":
         {
-            "add_table":
-            {
-                "0": "序号",
-                "1": "成员",
-                "2": "姓名",
-                "3": "状态"
+            "add_table"：{
+                "0": "没有",
+                "1": "身份证",
+                "2": "用户名",
+                "3": "全名",
+                "4": "集团",
+                "5": "状态"
             },
             "table_fillter":
             {
@@ -488,9 +489,12 @@
             },
             "table_user":
             {
-                "0": "序号",
-                "2": "成员",
-                "3": "全名"
+                "0": "没有",
+                "1": "身份证",
+                "2": "用户名",
+                "3": "全名",
+                "4": "集团",
+                "5": "状态"
             },
             "tableWidget_4":
             {
@@ -991,12 +995,13 @@
         },
         "tableWidget":
         {
-            "add_table":
-            {
+            "add_table": {
                 "0": "STT",
-                "1": "Thành viên",
-                "2": "Tên",
-                "3": "Trạng thái"
+                "1": "ID",
+                "2": "Username",
+                "3": "Họ và tên",
+                "4": "Nhóm",
+                "5": "Trạng thái"
             },
             "table_fillter":
             {
@@ -1011,8 +1016,11 @@
             "table_user":
             {
                 "0": "STT",
-                "2": "Thành viên",
-                "3": "Tên"
+                "1": "ID",
+                "2": "Username",
+                "3": "Họ và tên",
+                "4": "Nhóm",
+                "5": "Trạng thái"
             },
             "tableWidget_4":
             {
@@ -1509,9 +1517,11 @@
         "tableWidget": {
             "add_table": {
                 "0": "No",
-                "1": "Member",
-                "2": "Name",
-                "3": "Status"
+                "1": "ID",
+                "2": "Username",
+                "3": "Full name",
+                "4": "Group",
+                "5": "Status"
             },
             "table_fillter": {
                 "0": "No",
@@ -1523,9 +1533,12 @@
                 "6": "Status"
             },
             "table_user": {
-                "0": "No.",
-                "2": "Member",
-                "3": "Name"
+                "0": "No",
+                "1": "ID",
+                "2": "Username",
+                "3": "Full name",
+                "4": "Group",
+                "5": "Status"
             },
             "tableWidget_4": {
                 "0": "Image",
