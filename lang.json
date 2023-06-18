@@ -276,6 +276,14 @@
         },
         "setText":
         {
+            "spamALL": "全部",
+            "spamPHONE":"电话",
+            "spamUID": "UID",
+            "spamUsername":"用户名",
+            "addAll": "全部",
+            "addPhone":"电话",
+            "addUID": "UID",
+            "addUsername":"用户名",
             "label_6": "下載狀態",
             "label_32": "全部的",
             "label_33": "成功",
@@ -805,6 +813,14 @@
         },
         "setText":
         {
+            "spamALL": "Tất cả",
+            "spamPHONE":"Phone",
+            "spamUID": "UID",
+            "spamUsername":"Username",
+            "addAll": "Tất cả",
+            "addPhone":"Phone",
+            "addUID": "UID",
+            "addUsername":"Username",
             "label_6": "Trạng thái tải xuống",
             "label_32": "Tổng",
             "label_33": "Thành công",
@@ -1332,6 +1348,14 @@
         },
         "setText":
         {
+            "spamALL": "All",
+            "spamPHONE":"Phone",
+            "spamUID": "UID",
+            "spamUsername":"Username",
+            "addAll": "All",
+            "addPhone":"Phone",
+            "addUID": "UID",
+            "addUsername":"Username",
             "label_6": "Download status",
             "label_32": "Total",
             "label_33": "Success",
