@@ -390,6 +390,8 @@
         },
         "setPlaceholder": 
         {
+            "lineEdit_5": "输入符号VD：❤️👍😁",
+            "plainTextEdit_13" : "输入频道、群组或文章链接（每行一个链接）",
             "count_thread_line": "线程数",
             "time_delay_min": "最小延迟",
             "time_delay_max": "最大延迟",
@@ -932,6 +934,8 @@
         },
         "setPlaceholder": 
         {
+            "lineEdit_5": "Nhập biểu tượng VD: ❤️👍😁",
+            "plainTextEdit_13" : "Điền link channel, group hoặc link bài viết (mỗi dòng 1 link)",
             "count_thread_line": "Số luồng",
             "time_delay_min": "Min delay",
             "time_delay_max": "Max delay",
@@ -1472,6 +1476,8 @@
         },
         "setPlaceholder":
         {
+            "lineEdit_5": "Enter icon ：❤️👍😁",
+            "plainTextEdit_13" : "Enter channel, group or article link (one link per line)",
             "count_thread_line": "Thread",
             "time_delay_min": "Min delay",
             "time_delay_max": "Max delay",
