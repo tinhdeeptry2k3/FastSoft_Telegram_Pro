@@ -271,7 +271,8 @@
                 "forward_message": "转发消息",
                 "add_phone_to_contact": "添加电话号码到联系人",
                 "join_voice_call": "加入语音通话",
-                "login_failed": "登录错误！😭"
+                "login_failed": "登录错误！😭",
+                "buff_reaction": "增加后情绪"
             }
         },
         "setText":
@@ -820,7 +821,8 @@
                 "forward_message": "Chuyển tiếp tin nhắn",
                 "add_phone_to_contact": "Thêm SDT vào danh ",
                 "join_voice_call": "Tham gia cuộc gọi thoại",
-                "login_failed": "Lỗi đăng nhập! 😭"
+                "login_failed": "Lỗi đăng nhập! 😭",
+                "buff_reaction": "Tăng cảm xúc bài viết"
             }
         },
         "setText":
@@ -1367,7 +1369,8 @@
                 "forward_message": "Forward message",
                 "add_phone_to_contact": "Add phone number to contacts",
                 "join_voice_call": "Join voice call",
-                "login_failed": "Login error! 😭"
+                "login_failed": "Login error! 😭",
+                "buff_reaction": "Buff reaction post"
             }
         },
         "setText":
