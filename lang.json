@@ -486,6 +486,11 @@
         },
         "tableWidget":
         {
+            "tableIcon":
+            {
+                "0": "图标",
+                "1": "数量"
+            },
             "add_table":
             {
                 "0": "没有",
@@ -1031,6 +1036,11 @@
         },
         "tableWidget":
         {
+            "tableIcon":
+            {
+                "0": "ICON",
+                "1": "Số lượng"
+            },
             "add_table": {
                 "0": "STT",
                 "1": "ID",
@@ -1568,6 +1578,11 @@
             "groupBox_7": "Choose the form of spam"
         },
         "tableWidget": {
+            "tableIcon":
+            {
+                "0": "ICON",
+                "1": "Count"
+            },
             "add_table": {
                 "0": "No",
                 "1": "ID",
