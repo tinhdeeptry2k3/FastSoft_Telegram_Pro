@@ -465,7 +465,9 @@
             "groupBox_2": "选择个人简介路径",
             "groupBox_3": "选择图片路径",
             "groupBox_4": "选择姓名路径",
-            "groupBox_5": "自动抓取头像"
+            "groupBox_5": "自动抓取头像",
+            "groupBox_6": "选择加入成员的形式",
+            "groupBox_7": "选择垃圾邮件的形式"
         },
         "tableWidget":
         {
@@ -992,7 +994,10 @@
             "groupBox_2": "Chọn đường dẫn bio",
             "groupBox_3": "Chọn đường dẫn ảnh",
             "groupBox_4": "Chọn đường dẫn họ tên",
-            "groupBox_5": "Tự động chụp avatar"
+            "groupBox_5": "Tự động chụp avatar",
+            "groupBox_6": "Chọn hình thức thêm thành viên",
+            "groupBox_7": "Chọn hình thức spam"
+
         },
         "tableWidget":
         {
@@ -1513,7 +1518,9 @@
             "groupBox_2": "Choose bio link",
             "groupBox_3": "Choose image link",
             "groupBox_4": "Choose name link",
-            "groupBox_5": "Auto capture avatar"
+            "groupBox_5": "Auto capture avatar",
+            "groupBox_6": "Choose the form of adding members",
+            "groupBox_7": "Choose the form of spam"
         },
         "tableWidget": {
             "add_table": {
