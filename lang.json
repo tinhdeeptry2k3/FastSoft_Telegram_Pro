@@ -282,6 +282,7 @@
         },
         "setText":
         {
+            "label_43":"转发器/帐户数量",
             "radioButton_13": "情感爱好者关注文章链接",
             "radioButton_14": "情感增益频道 24/7",
             "pushButton_4": "更多的",
@@ -837,6 +838,7 @@
         },
         "setText":
         {
+            "label_43":"Số lượng chuyển tiếp/tài khoản",
             "radioButton_13": "Buff cảm xúc theo link bài viết",
             "radioButton_14": "Buff cảm xúc theo channel 24/",
             "pushButton_4": "Thêm",
@@ -1389,6 +1391,7 @@
         },
         "setText":
         {
+            "label_43":"Count forward/account",
             "radioButton_13": "Buff reaction with link post",
             "radioButton_14": "Buff reaction with channel 24/7",
             "pushButton_4": "Add",
